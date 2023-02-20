@@ -1,0 +1,7 @@
+__pycache__/
+data/
+lists/nsi.json
+lists/status.json
+output/
+logs.log
+geojson/

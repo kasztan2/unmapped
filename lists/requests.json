@@ -1,0 +1,918 @@
+{
+    "zabka-f55ead": [
+        {
+            "params": {
+                "url": "https://www.zabka.pl/ajax/shop-clusters.json",
+                "headers": {
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [],
+                "lon": [
+                    "lng"
+                ],
+                "lat": [
+                    "lat"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "dino-9e6a6c": [
+        {
+            "params": {
+                "url": "https://marketdino.pl/wp-json/wpgmza/v1/features/?filter={\"map_id\":\"36\",\"mashupIDs\":[],\"customFields\":[]}",
+                "headers": {
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "markers"
+                ],
+                "lon": [
+                    "lng"
+                ],
+                "lat": [
+                    "lat"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "dagrasso-07fabc": [
+        {
+            "params": {
+                "url": "https://www.dagrasso.pl/api/v1/restaurant_list"
+            },
+            "path": {
+                "data_root": [],
+                "lon": [
+                    "longitude"
+                ],
+                "lat": [
+                    "latitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "costa-93bf5b": [
+        {
+            "params": {
+                "url": "https://api.costacoffee.pl/api/storelocator/list",
+                "headers": {
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "gpsY"
+                ],
+                "lon": [
+                    "gpsX"
+                ]
+            },
+            "comment": "TODO: add more branches (currently gets only cafes in Poland)",
+            "open_licence": false
+        }
+    ],
+    "delikatesycentrum-95f41b": [
+        {
+            "params": {
+                "url": "https://www.delikatesy.pl/_next/data/5p3EfdiAJFSxRWOBbKg8x/sklepy.json",
+                "headers": {
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "pageProps",
+                    "shops"
+                ],
+                "lat": [
+                    "address",
+                    "lat"
+                ],
+                "lon": [
+                    "address",
+                    "lon"
+                ]
+            },
+            "comment": "WARNING: the url seems to change, probably will break sooner or later",
+            "open_licence": false
+        }
+    ],
+    "intermarche-986a24": [
+        {
+            "params": {
+                "url": "https://intermarche.pl/wp-content/themes/intermarche/json/markers.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "kaufland-464a37": [
+        {
+            "params": {
+                "url": "https://www.kaufland.pl/.klstorefinder.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "comment": "suspicious that there is only one shop unmapped",
+            "open_licence": false
+        }
+    ],
+    "netto-bc67ba": [
+        {
+            "params": {
+                "url": "https://www.netto.pl/umbraco/api/StoresData/StoresV2"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "coordinates",
+                    1
+                ],
+                "lon": [
+                    "coordinates",
+                    0
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.netto.dk/umbraco/api/StoresData/StoresV2"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "coordinates",
+                    1
+                ],
+                "lon": [
+                    "coordinates",
+                    0
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.netto.de/umbraco/api/StoresData/StoresV2"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "coordinates",
+                    1
+                ],
+                "lon": [
+                    "coordinates",
+                    0
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "lewiatan-95f41b": [
+        {
+            "params": {
+                "url": "https://www.lewiatan.pl/api/stores"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "naszsklep-95f41b": [
+        {
+            "params": {
+                "url": "https://www.nasz-sklep.pl/strefa-konsumenta/?region=&town=&kind=&shop=&paramAll=0"
+            },
+            "path": {
+                "data_root": [
+                    "shops"
+                ],
+                "lat": [
+                    "geo_lat"
+                ],
+                "lon": [
+                    "geo_lng"
+                ]
+            },
+            "comment": "TODO fix",
+            "ignore_result": "yes",
+            "open_licence": false
+        }
+    ],
+    "abc-95f41b": [
+        {
+            "params": {
+                "url": "https://sklepyabc.pl/api/sklep/distance?lat=52.5181295&lng=18.5176033&radius=1069.50",
+                "headers": {
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "comment": "TODO fix",
+            "ignore_result": "yes",
+            "open_licence": false
+        }
+    ],
+    "groszek-95f41b": [
+        {
+            "params": {
+                "url": "https://groszek.com.pl/wp-content/themes/groszek/api/js/gps.json"
+            },
+            "path": {
+                "data_root": [
+                    "shops"
+                ],
+                "lat": [
+                    "geolocation",
+                    "lat"
+                ],
+                "lon": [
+                    "geolocation",
+                    "long"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "topmarket-4d6b4b": [
+        {
+            "params": {
+                "url": "https://www.topmarkety.pl/wp-admin/admin-ajax.php?action=asl_load_stores&nonce=76136dee90&lang=&load_all=1&layout=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "comment": "TODO fix",
+            "open_licence": false
+        }
+    ],
+    "cukierniasowa-6e7edc": [
+        {
+            "params": {
+                "url": "https://www.cukierniasowa.pl/home/shops?str=&reg=&type=0&geo=&alias=&typee=&count="
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "location_lat"
+                ],
+                "lon": [
+                    "location_lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "flyingtigercopenhagen-37d726": [
+        {
+            "params": {
+                "url": "https://stockist.co/api/v1/u7946/locations/search?tag=u7946&latitude=61.01572481397616&longitude=46.928329816823776&filter_operator=and&distance=100000&_=st_edpa8e29d5lrzxxjl6qbv"
+            },
+            "path": {
+                "data_root": [
+                    "locations"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "krowarzywa-3eab78": [
+        {
+            "params": {
+                "url": "https://store.goorder.pl/api/portal/places?domains=krowarzywa-bialystok.goorder.pl,krowarzywa-hoza.goorder.pl,krowarzywa-marszalkowska.goorder.pl,krowarzywa-janapawla.goorder.pl,krowarzywa-mokotow.goorder.pl,krowarzywa-bemowo.goorder.pl,krowarzywa-ursynow.goorder.pl,krowarzywabialoleka.goorder.pl,krowarzywa-wilanow.goorder.pl,krowarzywa-chmielna.goorder.pl,krowarzywa-brzozowa.goorder.pl,krowarzywa-gdansk2.goorder.pl,krowarzywa-slawkowska.goorder.pl,krowarzywa-kazimierz.goorder.pl,krowarzywa-piotrkowska.goorder.pl,krowarzywa-poznan.goorder.pl,krowarzywa-rzeszow.goorder.pl,krowarzywa-szczecin.goorder.pl,krowarzywa-szczecin2.goorder.pl,krowarzywa-torun.goorder.pl,krowarzywa-wroclaw.goorder.pl"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "coordinates",
+                    "latitude"
+                ],
+                "lon": [
+                    "coordinates",
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "agatameble-ad60fa": [
+        {
+            "params": {
+                "url": "https://www.agatameble.pl/api/v1/pos/pos/poses.json"
+            },
+            "path": {
+                "data_root": [
+                    "results"
+                ],
+                "lat": [
+                    "Lat"
+                ],
+                "lon": [
+                    "Lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "americansignaturefurniture-a5c7fa": [
+        {
+            "params": {
+                "url": "https://api.blueport.com/v1/store/postalcode?key=AIzaSyA6L31EabD8yXrytC4YBOoEdbNfbfDhjtw&postalCode=43001&distance.distance=9999&distance.unit=Miles"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "equivalenza-59ad61": [
+        {
+            "params": {
+                "url": "https://equivalenza.com/stores/json_tiendas.php"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "mediaexpert-2b5e29": [
+        {
+            "params": {
+                "url": "https://sklepy.mediaexpert.pl/data/getshops"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "xkom-2b5e29": [
+        {
+            "params": {
+                "url": "https://mobileapi.x-kom.pl/api/v1/xkom/departments"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "GeoLocation",
+                    "Latitude"
+                ],
+                "lon": [
+                    "GeoLocation",
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "tmobile-5f2bc1": [
+        {
+            "params": {
+                "url": "https://www.t-mobile.pl/c/_bffapi/sdr-shops/v1/shops"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "coordinates",
+                    "y"
+                ],
+                "lon": [
+                    "coordinates",
+                    "x"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "pizzahut-2fabb0": [
+        {
+            "params": {
+                "url": "https://api.amrest.eu/amdv/ordering-api/PH_PL/rest/v2/restaurants/"
+            },
+            "path": {
+                "data_root": [
+                    "restaurants"
+                ],
+                "lat": [
+                    "geoLat"
+                ],
+                "lon": [
+                    "geoLng"
+                ]
+            },
+            "open_licence": false,
+            "comment": "TODO",
+            "ignore_result": "yes"
+        }
+    ],
+    "footlocker-9b62dc": [
+        {
+            "params": {
+                "url": "https://maps.stores.footlocker.com/api/getAsyncLocations?template=search&level=search"
+            },
+            "path": {
+                "data_root": [
+                    "markers"
+                ],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://maps.stores.footlocker.com/api/getAsyncLocations?template=search&level=search&lat=49.63028296505134&lng=16.504211425781254"
+            },
+            "path": {
+                "data_root": [
+                    "markers"
+                ],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "dominos-b946c5": [
+        {
+            "params": {
+                "url": "https://www.dominos.no/api/stores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "address",
+                    "location",
+                    "latitude"
+                ],
+                "lon": [
+                    "address",
+                    "location",
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.dominos.se/api/stores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "address",
+                    "location",
+                    "latitude"
+                ],
+                "lon": [
+                    "address",
+                    "location",
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "andotherstories-3937bd": [
+        {
+            "params": {
+                "url": "https://api.storelocator.hmgroup.tech/v2/brand/os/stores/locale/en_GB/country/PL?openinghours=true&campaigns=true&departments=true"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.storelocator.hmgroup.tech/v2/brand/os/stores/locale/en_GB/country/AT?openinghours=true&campaigns=true&departments=true"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.storelocator.hmgroup.tech/v2/brand/os/stores/locale/en_GB/country/DE?openinghours=true&campaigns=true&departments=true"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.storelocator.hmgroup.tech/v2/brand/os/stores/locale/en_GB/country/BE?openinghours=true&campaigns=true&departments=true"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.storelocator.hmgroup.tech/v2/brand/os/stores/locale/en_GB/country/DK?openinghours=true&campaigns=true&departments=true"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.storelocator.hmgroup.tech/v2/brand/os/stores/locale/en_GB/country/FI?openinghours=true&campaigns=true&departments=true"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.storelocator.hmgroup.tech/v2/brand/os/stores/locale/en_GB/country/FR?openinghours=true&campaigns=true&departments=true"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false,
+            "comment": "TODO add more countries"
+        }
+    ],
+    "handm-3937bd": [
+        {
+            "params": {
+                "url": "https://api.storelocator.hmgroup.tech/v2/brand/hm/stores/locale/en_gb/country/PL?_type=json&campaigns=true&departments=true&openinghours=true&maxnumberofstores=100"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.storelocator.hmgroup.tech/v2/brand/hm/stores/locale/en_gb/country/US?_type=json&campaigns=true&departments=true&openinghours=true&maxnumberofstores=1000"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false,
+            "comment": "TODO add more countries"
+        }
+    ],
+    "nothingbundtcakes-e06bde": [
+        {
+            "params": {
+                "url": "https://www.nothingbundtcakes.com/find-a-bakery"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "easybathrooms-72592f": [
+        {
+            "params": {
+                "url": "https://www.easybathrooms.com/amlocator/index/ajax/"
+            },
+            "path": {
+                "data_root": [
+                    "items"
+                ],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "doctorsofphysicaltherapy-61735f": [
+        {
+            "params": {
+                "url": "https://doctorsofphysicaltherapy.com/wp-admin/admin-ajax.php?action=store_search&lat=43.043978&lng=-87.899151&max_results=100&search_radius=100&autoload=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "lifemarkphysiotherapy-a46221": [
+        {
+            "params": {
+                "url": "https://www.lifemark.ca/locations/searchcallback"
+            },
+            "path": {
+                "data_root": [
+                    "results"
+                ],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "leica-ccedc8": [
+        {
+            "params": {
+                "url": "https://leica-camera.com/pl-PL/api/dealer-search?filter[location][distance]=8539.655797273792&filter[location][lat]=-4.176846451252207&filter[location][lon]=180"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "attributes",
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "attributes",
+                    "location",
+                    "lon"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "jessops-916aa2": [
+        {
+            "params": {
+                "url": "https://www.jessops.com/store-finder/map/pins"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "dogtopia-03770a": [
+        {
+            "params": {
+                "url": "https://www.dogtopia.com/wp-json/store-locator/v1/locations.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "store_info",
+                    "location_address_info",
+                    "location_coordinates",
+                    "latitude"
+                ],
+                "lon": [
+                    "store_info",
+                    "location_address_info",
+                    "location_coordinates",
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "petsuites-a2c409": [
+        {
+            "params": {
+                "url": "https://liveapi.yext.com/v2/accounts/me/entities?filter={ \"meta.folderId\":{\"$in\":[249017]}}&limit=50&api_key=a17dd90fe0e16548cdbf95de53725f70&v=20161012"
+            },
+            "path": {
+                "data_root": [
+                    "response",
+                    "entities"
+                ],
+                "lat": [
+                    "yextDisplayCoordinate",
+                    "latitude"
+                ],
+                "lon": [
+                    "yextDisplayCoordinate",
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "k1speed-fb63c7": [
+        {
+            "params": {
+                "url": "https://www.k1speed.com/wp-admin/admin-ajax.php?action=asl_load_stores&nonce=74a4e1b5a5&load_all=1&layout=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "xgolf-8a88af": [
+        {
+            "params": {
+                "url": "https://playxgolf.com/wp-json/facetwp/v1/refresh"
+            },
+            "path": {
+                "data_root": [
+                    "settings",
+                    "map",
+                    "locations"
+                ],
+                "lat": [
+                    "position",
+                    "lat"
+                ],
+                "lon": [
+                    "position",
+                    "lng"
+                ]
+            },
+            "request_type": "post",
+            "open_licence": false
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+[out:json]
+[timeout:600]
+;
+(
+  ${names}
+);
+out skel center;
+out geom center;
