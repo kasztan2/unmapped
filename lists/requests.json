@@ -773,7 +773,7 @@
     "lifemarkphysiotherapy-a46221": [
         {
             "params": {
-                "url": "https://www.lifemark.ca/locations/searchcallback"
+                "url": "https://www.lifemark.ca/locations/searchcallback?address=&lat=51.5621883&lng=-88.2596971&max_kilometers=1000000&result_limit=350&services=%5B%5D&provinces=%5B%5D&current_path=locations"
             },
             "path": {
                 "data_root": [
@@ -786,7 +786,8 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_licence": false,
+            "request_type": "post"
         }
     ],
     "leica-ccedc8": [
