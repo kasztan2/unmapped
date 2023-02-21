@@ -8,7 +8,7 @@ from src.logging import logging
 
 nsi_list_url="https://cdn.jsdelivr.net/npm/name-suggestion-index@6.0.20230206/dist/nsi.min.json"
 
-def download()->None:
+def download(only_open_licence: bool)->None:
     file_modification_time=0
     try:
         file_modification_time=datetime.fromtimestamp(os.path.getmtime(f"lists/nsi.json"))
@@ -50,9 +50,9 @@ def download()->None:
             continue
         
         try:
-            external_request(obj["id"])
+            external_request(obj["id"], only_open_licence)
         except Exception as e:
-            logging.error(f"{obj}: Error during external request: {e}")
+            logging.error(f"{obj}: Error during external request: {e}", exc_info=True)
 
     for obj in nsi_array:
         if obj["id"] not in request_list.keys():

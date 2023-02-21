@@ -4,7 +4,7 @@ import os
 from datetime import datetime, timedelta
 from src.logging import logging
 
-def external_request(obj_id: str)->None:
+def external_request(obj_id: str, only_open_licence: bool)->None:
     logging.info("External request: starting")
     logging.info(f"id: {obj_id}")
 
@@ -32,17 +32,22 @@ def external_request(obj_id: str)->None:
 
     #TODO make default user agent
 
+    any_open_licence=False
+
     for req in request_data:
         if "request_type" not in req:
             req["request_type"]="get"
         try:
+            if only_open_licence and req["open_licence"]==False:
+                continue
+            any_open_licence=True
             if req["request_type"]=="post":
                 res=session.post(**req["params"])
             else:
                 res=session.get(**req["params"])
         except Exception as e:
             #if request failed, omit this entity (brand)
-            logging.error(f"{obj_id}: External request error!\n{e}\nOmitting")
+            logging.error(f"{obj_id}: External request error!\n{e}\nOmitting", exc_info=True)
             return
         
         #ignore result if marked so, this is for pages later in list that require some cookies present
@@ -83,8 +88,9 @@ def external_request(obj_id: str)->None:
                 pass
     
     #saving data to a file
-    output_file=open(f"data/external/{obj_id}.json", "w")
-    output_file.write(json.dumps(output_data))
-    output_file.close()
+    if any_open_licence:
+        output_file=open(f"data/external/{obj_id}.json", "w")
+        output_file.write(json.dumps(output_data))
+        output_file.close()
 
     logging.info("External request: done")
