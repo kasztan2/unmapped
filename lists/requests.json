@@ -793,7 +793,7 @@
     "leica-ccedc8": [
         {
             "params": {
-                "url": "https://leica-camera.com/pl-PL/api/dealer-search?filter[location][distance]=8539.655797273792&filter[location][lat]=-4.176846451252207&filter[location][lon]=180"
+                "url": "https://leica-camera.com/pl-PL/api/dealer-search?filter[location][distance]=100000&filter[location][lat]=0&filter[location][lon]=0"
             },
             "path": {
                 "data_root": [
