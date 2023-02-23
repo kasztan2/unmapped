@@ -29,7 +29,7 @@ def compare(obj_id: str, external_data: list, overpass_data: list, threshold_met
         num, min_distance=find_nearest(overpass_tree, [obj["lat"], obj["lon"]])
         
         if min_distance>threshold_meters:
-            output.append({"type": "Feature", "properties": {}, "geometry":{"coordinates": [obj["lat"], obj["lon"]], "type": "Point"}})
+            output.append({"type": "Feature", "properties": {}, "geometry":{"coordinates": [obj["lon"], obj["lat"]], "type": "Point"}})
     
     with open("lists/requests.json") as f:
         requests_data=json.load(f)
