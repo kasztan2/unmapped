@@ -10,7 +10,7 @@ if __name__=="__main__":
     if len(sys.argv)>1 and sys.argv[1]=="--open_licence":
         only_open_licences=True
     status_file=open("lists/status.json", "w+")
-    if os.stat("lists/status.json").st_size == 0:
+    if os.path.getsize("lists/status.json") == 0:
         status_file.write("{}")
     status_file.close()
 

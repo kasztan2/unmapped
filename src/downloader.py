@@ -64,6 +64,15 @@ def download(only_open_licence: bool)->None:
         if "name" in obj["tags"]:
             names.append(obj["tags"]["name"])
 
+        any_open_license=False
+        for req in request_list[obj["id"]]:
+            if req["open_licence"]:
+                any_open_license=True
+                break
+
+        if any_open_license==False:
+            continue
+
         try:
             overpass_request(obj["id"], names, only_open_licence)
         except Exception as e:
