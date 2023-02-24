@@ -915,5 +915,42 @@
             "request_type": "post",
             "open_licence": false
         }
+    ],
+    "empik-0c5adb": [
+        {
+            "params": {
+                "url": "https://www.empik.com/ajax/delivery-point/empik?query="
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false,
+            "request_type": "post"
+        }
+    ],
+    "burgerking-890dec": [
+        {
+            "params": {
+                "url": "https://api.amrest.eu/amdv/ordering-api/BK_PL/rest/v2/restaurants/"
+            },
+            "path": {
+                "data_root": [
+                    "restaurants"
+                ],
+                "lat": [
+                    "geoLat"
+                ],
+                "lon": [
+                    "geoLng"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
