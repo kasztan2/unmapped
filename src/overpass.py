@@ -8,7 +8,7 @@ from src.logging import logging
 
 overpass_endpoint="https://overpass-api.de/api/interpreter"
 
-def overpass_request(obj_id: str, names: list, sleep: int=120)->None:
+def overpass_request(obj_id: str, names: list, only_open_license: bool, sleep: int=120)->None:
     logging.info("Overpass request: starting")
     logging.info(f"id: {obj_id}")
 
@@ -23,6 +23,13 @@ def overpass_request(obj_id: str, names: list, sleep: int=120)->None:
     if file_modification_time>current_time-timedelta(days=1):
         logging.info("Same overpass request made less than 1 day ago, using saved version")
         return
+    
+    f=open("lists/requests.json")
+    requests_file=json.load(f)
+    f.close()
+    request_data=requests_file[obj_id]
+    if only_open_license and request_data[obj_id]["open_licence"]==False:
+                return
 
     #dealing with overpass request template
     template_file=open("src/overpass_template", "r")

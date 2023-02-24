@@ -65,6 +65,6 @@ def download(only_open_licence: bool)->None:
             names.append(obj["tags"]["name"])
 
         try:
-            overpass_request(obj["id"], names)
+            overpass_request(obj["id"], names, only_open_licence)
         except Exception as e:
             logging.error(f"{obj}: Error during overpass request: {e}")
