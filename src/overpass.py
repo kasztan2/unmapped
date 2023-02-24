@@ -28,8 +28,8 @@ def overpass_request(obj_id: str, names: list, only_open_license: bool, sleep: i
     requests_file=json.load(f)
     f.close()
     request_data=requests_file[obj_id]
-    if only_open_license and request_data[obj_id]["open_licence"]==False:
-                return
+    if only_open_license and request_data["open_licence"]==False:
+        return
 
     #dealing with overpass request template
     template_file=open("src/overpass_template", "r")
