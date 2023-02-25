@@ -1157,5 +1157,43 @@
             },
             "open_licence": false
         }
+    ],
+    "papajohns-658eea": [
+        {
+            "params": {
+                "url": "https://papajohns.ie/wp-admin/admin-ajax.php"
+            },
+            "path": {
+                "data_root": [
+                    "markers"
+                ],
+                "lat": [
+                    "store_latitude"
+                ],
+                "lon": [
+                    "store_longitude"
+                ]
+            },
+            "request_type": "post",
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.pji.co.kr/searchStore?addr1=&addr2=&name2="
+            },
+            "path": {
+                "data_root": [
+                    "list"
+                ],
+                "lat": [
+                    "yaxis"
+                ],
+                "lon": [
+                    "xaxis"
+                ]
+            },
+            "request_type": "post",
+            "open_licence": false
+        }
     ]
 }
