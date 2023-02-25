@@ -3,6 +3,7 @@ import json
 import os
 from datetime import datetime, timedelta
 from src.logging import logging
+import pygeohash as pgh
 
 def external_request(obj_id: str, only_open_licence: bool)->None:
     logging.info("External request: starting")
@@ -72,13 +73,20 @@ def external_request(obj_id: str, only_open_licence: bool)->None:
         
         for obj in parsed_data:
             try:
-                lat=obj
-                for field in req["path"]["lat"]:
-                    lat=lat[field]
-                
-                lon=obj
-                for field in req["path"]["lon"]:
-                    lon=lon[field]
+                lat=0
+                lon=0
+                if "geohash" in req["path"]:
+                    for field in req["path"]["geohash"]:
+                        obj=obj[field]
+                    (lat, lon)=pgh.decode(geohash=obj[:-1])
+                else:
+                    lat=obj
+                    for field in req["path"]["lat"]:
+                        lat=lat[field]
+                    
+                    lon=obj
+                    for field in req["path"]["lon"]:
+                        lon=lon[field]
                 
                 lat=float(lat)
                 lon=float(lon)

@@ -314,18 +314,13 @@
     "flyingtigercopenhagen-37d726": [
         {
             "params": {
-                "url": "https://stockist.co/api/v1/u7946/locations/search?tag=u7946&latitude=61.01572481397616&longitude=46.928329816823776&filter_operator=and&distance=100000&_=st_edpa8e29d5lrzxxjl6qbv"
+                "url": "https://stockist.co/api/v1/u7946/locations/overview.js"
             },
             "path": {
                 "data_root": [
-                    "locations"
+                    "i"
                 ],
-                "lat": [
-                    "latitude"
-                ],
-                "lon": [
-                    "longitude"
-                ]
+                "geohash": []
             },
             "open_licence": true
         }
