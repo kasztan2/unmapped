@@ -10,12 +10,14 @@ def to_osm_xml():
 
         xml_string="<?xml version=\"1.0\" encoding=\"UTF-8\"?><osm version=\"0.6\" generator=\"github.com/kasztan2/unmapped\">"
 
+        count=-1
         for x in data:
             tags=x["properties"]["tags"]
-            xml_string+=f"<node lat=\"{x['geometry']['coordinates'][0]}\" lon=\"{x['geometry']['coordinates'][1]}\">"
+            xml_string+=f"<node id=\"{count}\" lat=\"{x['geometry']['coordinates'][0]}\" lon=\"{x['geometry']['coordinates'][1]}\">"
             for key, value in tags.items():
                 xml_string+=f"<tag k=\"{key}\" v=\"{value}\"/>"
             xml_string+="</node>"
+            count-=1
 
         xml_string+="</osm>"
 
