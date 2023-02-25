@@ -25,11 +25,17 @@ def compare(obj_id: str, external_data: list, overpass_data: list, threshold_met
 
     overpass_tree=init_tree([[x["lat"], x["lon"]] for x in overpass_data])
     output=[]
+
+    with open("lists/nsi.json") as f:
+        nsi_data=json.load(f)
+    
+    nsi_data=[x for x in nsi_data if x["id"]==obj_id][0]
+
     for obj in external_data:
         num, min_distance=find_nearest(overpass_tree, [obj["lat"], obj["lon"]])
         
         if min_distance>threshold_meters:
-            output.append({"type": "Feature", "properties": {}, "geometry":{"coordinates": [obj["lon"], obj["lat"]], "type": "Point"}})
+            output.append({"type": "Feature", "properties": {}, "geometry":{"coordinates": [obj["lon"], obj["lat"]], "type": "Point", "properties":{"tags":nsi_data["tags"]}}})
     
     with open("lists/requests.json") as f:
         requests_data=json.load(f)

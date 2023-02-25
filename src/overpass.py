@@ -38,7 +38,7 @@ def overpass_request(obj_id: str, names: list, only_open_license: bool, sleep: i
 
     names_string=""
     for x in names:
-        names_string+=f"nwr[\"name\"=\"{x}\"];\nnwr[\"brand\"=\"{x}\"];\n"
+        names_string+=f"nwr[\"name\"~\"{x}\", i];\nnwr[\"brand\"~\"{x}\", i];\n"
 
     req=template_src.safe_substitute(names=names_string)
 
