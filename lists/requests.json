@@ -952,5 +952,210 @@
             },
             "open_licence": false
         }
+    ],
+    "kfc-9bf4b8": [
+        {
+            "params": {
+                "url": "https://api.amrest.eu/amdv/ordering-api/KFC_PL/rest/v2/restaurants/"
+            },
+            "path": {
+                "data_root": [
+                    "restaurants"
+                ],
+                "lat": [
+                    "geoLat"
+                ],
+                "lon": [
+                    "geoLng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.kfc.co.at/api/collections/shops/entries"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://kfcslovakia.sk/api/collections/shops/entries"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.kfc.es/find-a-kfc/allstores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "location",
+                    "latitude"
+                ],
+                "lon": [
+                    "location",
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.amrest.eu/amdv/ordering-api/KFC_HR/rest/v2/restaurants/"
+            },
+            "path": {
+                "data_root": [
+                    "restaurants"
+                ],
+                "lat": [
+                    "geoLat"
+                ],
+                "lon": [
+                    "geoLng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.amrest.eu/amdv/ordering-api/KFC_CZ/rest/v2/restaurants/"
+            },
+            "path": {
+                "data_root": [
+                    "restaurants"
+                ],
+                "lat": [
+                    "geoLat"
+                ],
+                "lon": [
+                    "geoLng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.amrest.eu/amdv/ordering-api/KFC_HU/rest/v2/restaurants/"
+            },
+            "path": {
+                "data_root": [
+                    "restaurants"
+                ],
+                "lat": [
+                    "geoLat"
+                ],
+                "lon": [
+                    "geoLng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.amrest.eu/amdv/ordering-api/KFC_RS/rest/v2/restaurants/"
+            },
+            "path": {
+                "data_root": [
+                    "restaurants"
+                ],
+                "lat": [
+                    "geoLat"
+                ],
+                "lon": [
+                    "geoLng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "dunkin-e46fb5": [
+        {
+            "params": {
+                "url": "https://www.dunkin.co.uk/wp-admin/admin-ajax.php?action=asl_load_stores&nonce=ddc8cef537&load_all=1&layout=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.dunkinbahamas.com/?ajax=true&action=map_locations"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://storerocket.io/api/user/DG4gZ3yp05/locations?radius=20&units=kilometers"
+            },
+            "path": {
+                "data_root": [
+                    "results",
+                    "locations"
+                ],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "http://www.dunkindonuts.co.kr/store/list_ajax.php?ScS=&ScG=&ScWord="
+            },
+            "path": {
+                "data_root": [
+                    "list"
+                ],
+                "lat": [
+                    "pointX"
+                ],
+                "lon": [
+                    "pointY"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
