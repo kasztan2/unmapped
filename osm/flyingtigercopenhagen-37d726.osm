@@ -1,0 +1,3363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="github.com/kasztan2/unmapped">
+    <node lat="-21.9307" lon="64.1462">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-21.8949" lon="64.1299">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-21.0043" lon="63.9371">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-16.5474" lon="28.3957">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-16.2528" lon="28.4673">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-15.475" lon="28.094">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-15.4312" lon="28.1346">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-9.4146" lon="38.7309">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-9.2207" lon="38.7774">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-9.1884" lon="38.7545">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-9.162" lon="38.8434">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-9.1615" lon="38.7246">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-9.1455" lon="38.7322">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-9.1372" lon="39.4008">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-9.0998" lon="38.7856">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.8303" lon="39.7307">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.7169" lon="42.2345">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.6557" lon="41.1805">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.6254" lon="41.119">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.4252" lon="43.3471">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.4061" lon="41.5578">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.3953" lon="51.8861">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.2959" lon="41.4418">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.2225" lon="43.4884">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-8.0308" lon="37.0875">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-7.8658" lon="42.341">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-7.5566" lon="43.0124">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-7.5192" lon="39.8196">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-7.4994" lon="40.2731">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-7.0221" lon="38.8842">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.9515" lon="37.2563">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.9197" lon="37.272">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.7966" lon="53.1779">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.4692" lon="53.2818">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.412" lon="53.3459">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.4003" lon="54.0022">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.3888" lon="39.4683">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.3716" lon="53.4067">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.3197" lon="42.9398">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.2957" lon="36.5326">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.2391" lon="53.308">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.2091" lon="36.4704">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.1558" lon="36.6915">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.1365" lon="36.6837">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.1355" lon="53.2924">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.0474" lon="37.3851">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-6.0102" lon="37.3914">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-5.9974" lon="37.3746">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-5.9874" lon="37.3424">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-5.9729" lon="37.3837">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-5.9603" lon="37.3883">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-5.9266" lon="43.5573">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-5.8021" lon="43.39">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-5.664" lon="43.5424">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-5.5717" lon="42.5976">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-5.4483" lon="36.1312">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.8745" lon="36.5212">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.6323" lon="36.529">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.4319" lon="36.7161">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.4304" lon="36.7184">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.4224" lon="36.7205">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.3118" lon="51.8576">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.2497" lon="55.8632">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.179" lon="55.7604">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.1207" lon="40.948">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-4.0235" lon="39.8583">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.9356" lon="56.1174">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.9318" lon="40.299">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.9314" lon="40.4823">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.7379" lon="40.3638">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.7101" lon="40.4227">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.7025" lon="40.3911">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.6759" lon="40.4254">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.6162" lon="37.1415">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.6132" lon="40.5412">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.6123" lon="37.7859">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.5975" lon="40.3677">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.5875" lon="40.448">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.2285" lon="51.5677">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-3.0079" lon="43.2892">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-2.9423" lon="35.2951">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-2.9411" lon="43.2612">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-2.924" lon="43.2585">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-2.7601" lon="52.7129">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-2.6715" lon="42.8458">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-2.4628" lon="36.8356">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-2.2428" lon="53.483">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-2.1007" lon="57.1453">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-2.0755" lon="51.8995">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.9817" lon="43.3231">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.8561" lon="38.9912">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.6315" lon="42.7844">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.5742" lon="53.7579">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.528" lon="52.9355">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.5134" lon="52.4081">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.5014" lon="47.2597">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.4092" lon="50.9019">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.3338" lon="52.0635">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.1534" lon="46.16">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.1484" lon="38.0394">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-1.1317" lon="37.9855">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.9503" lon="37.6248">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.8871" lon="41.6092">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.8658" lon="37.9925">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.393" lon="51.6537">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.3622" lon="39.494">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.3466" lon="39.4564">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.3029" lon="51.411">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.2453" lon="52.5732">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.1" lon="51.3761">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.0384" lon="39.9863">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="-0.0131" lon="51.462">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="0.0153" lon="51.4036">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="1.0951" lon="49.4427">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="1.2539" lon="41.1158">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="1.4435" lon="43.6025">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="1.5331" lon="45.1591">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.0112" lon="41.5626">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.1106" lon="41.543">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.1303" lon="41.3602">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.134" lon="41.3755">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.1349" lon="41.3898">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.1473" lon="41.3959">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.1549" lon="41.4002">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.1787" lon="41.4304">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.2184" lon="41.4109">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.2885" lon="41.6066">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.2988" lon="49.892">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.3465" lon="51.0349">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.6553" lon="39.5722">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.7067" lon="39.5536">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.8199" lon="41.9778">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.919" lon="51.2304">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.9618" lon="42.2663">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="2.9943" lon="50.4168">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="3.0809" lon="45.7744">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="3.2196" lon="51.2055">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="3.2251" lon="43.3361">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="3.289" lon="51.3495">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="3.5232" lon="50.3582">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="3.8772" lon="43.6077">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.0376" lon="50.9395">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.154" lon="51.1523">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.3086" lon="52.0777">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.3589" lon="43.8374">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.3609" lon="50.8377">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.3737" lon="50.8802">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.3873" lon="45.4382">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.4789" lon="51.9182">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.5011" lon="51.2221">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.5545" lon="51.9494">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.6173" lon="50.6715">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.6996" lon="50.8797">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.7098" lon="52.0134">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.7753" lon="51.5879">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.8367" lon="45.7619">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.8652" lon="50.4671">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="4.9481" lon="51.3224">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="5.3226" lon="60.4655">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="5.3326" lon="59.3948">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="5.3368" lon="50.9283">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="5.3659" lon="43.3077">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="5.4767" lon="51.439">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="5.6807" lon="58.9525">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="5.7218" lon="58.877">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="5.7386" lon="58.8516">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="6.0044" lon="43.1377">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="6.1451" lon="46.2034">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="6.1579" lon="62.4728">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="6.1751" lon="49.1185">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="6.3514" lon="62.4652">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="6.5662" lon="53.2175">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="6.6285" lon="46.5223">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="7.1295" lon="43.6645">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="7.3397" lon="47.7478">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="7.492" lon="47.0168">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="7.6148" lon="45.0549">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="7.6511" lon="45.1722">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="7.6694" lon="45.0381">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="7.6768" lon="45.0742">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="7.6921" lon="45.0669">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="7.7464" lon="48.5821">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.0772" lon="45.5479">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.1296" lon="58.1799">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.2214" lon="44.9144">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.5434" lon="47.3741">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.5443" lon="47.4113">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.6539" lon="50.1091">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.8425" lon="42.029">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.8847" lon="44.4121">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.9266" lon="45.9706">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="8.9993" lon="56.1354">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.082" lon="45.8108">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.0941" lon="39.2955">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.1742" lon="45.3918">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.2157" lon="45.4853">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.217" lon="49.1408">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.2902" lon="40.3256">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.3291" lon="45.5464">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.3716" lon="47.4219">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.3915" lon="45.8545">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.5039" lon="45.313">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.5452" lon="56.1683">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.6409" lon="59.138">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.6659" lon="45.6937">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.7125" lon="47.4118">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.8173" lon="44.108">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.9527" lon="53.5762">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.9836" lon="54.0741">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="9.9876" lon="53.4569">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.0214" lon="45.1357">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.0362" lon="56.4609">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.1034" lon="53.5401">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.158" lon="59.7425">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.1652" lon="45.5327">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.207" lon="59.7431">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.2474" lon="43.8722">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.3192" lon="44.8032">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.4648" lon="61.117">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.5147" lon="45.4319">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.535" lon="57.4384">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.6656" lon="59.4364">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.7219" lon="59.9265">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.7372" lon="53.9142">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.7745" lon="59.9472">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.8418" lon="59.9143">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.9242" lon="59.9619">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.9767" lon="45.4061">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.9938" lon="59.2518">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="10.9955" lon="45.44">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.0068" lon="59.9477">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.0487" lon="60.7982">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.1128" lon="42.7626">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.1392" lon="46.0678">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.1721" lon="60.1427">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.2484" lon="44.4888">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.2492" lon="43.7775">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.334" lon="43.3186">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.3475" lon="44.495">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.5414" lon="45.5459">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.5844" lon="48.1579">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.6217" lon="44.835">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.7805" lon="55.2531">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.8703" lon="54.7663">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.8724" lon="45.4003">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.9112" lon="57.654">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="11.9524" lon="57.7213">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.0129" lon="57.6538">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.1061" lon="57.7393">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.1392" lon="43.2554">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.2125" lon="45.4601">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.2475" lon="57.106">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.2978" lon="41.7984">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.2992" lon="55.9294">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.3273" lon="45.4438">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.4268" lon="41.9014">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.438" lon="41.902">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.4565" lon="41.9092">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.4669" lon="41.9084">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.4767" lon="51.3465">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.494" lon="41.8421">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.4975" lon="41.8989">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.5176" lon="41.9301">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.5229" lon="41.8745">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.5295" lon="41.9108">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.5315" lon="41.9111">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.5631" lon="41.8561">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.5695" lon="44.0585">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.5783" lon="55.6982">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.6076" lon="41.8841">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.6359" lon="42.5488">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.6609" lon="41.9138">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.6934" lon="56.0478">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.6967" lon="41.9554">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.7256" lon="42.91">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.7568" lon="56.0921">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.9114" lon="56.6553">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.9406" lon="57.7203">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="12.9722" lon="55.5654">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.0024" lon="55.5958">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.0135" lon="43.8005">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.1792" lon="46.0861">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.2337" lon="46.0621">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.3008" lon="38.1342">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.3076" lon="38.1832">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.3695" lon="49.7492">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.4152" lon="52.5508">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.4235" lon="59.3786">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.4328" lon="52.482">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.5554" lon="37.2986">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.6234" lon="42.8459">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.7027" lon="43.2939">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.7592" lon="42.6837">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="13.8821" lon="42.9519">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.0411" lon="50.6587">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.1322" lon="42.3417">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.2036" lon="57.7738">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.2058" lon="56.0258">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.2888" lon="48.3036">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.4227" lon="67.2776">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.4286" lon="50.0892">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.4613" lon="50.0783">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.4728" lon="48.9842">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.5056" lon="35.8742">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.5063" lon="35.9096">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.5122" lon="35.8986">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.6572" lon="41.5747">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="14.8064" lon="56.8788">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.057" lon="37.477">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.0574" lon="40.6063">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.0849" lon="37.5123">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.0965" lon="37.518">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.212" lon="59.2707">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.2163" lon="37.1066">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.2683" lon="38.1876">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.2941" lon="37.0614">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.5447" lon="41.4623">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.5926" lon="49.3924">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.6545" lon="38.0598">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="15.7689" lon="50.0371">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.1905" lon="58.588">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.2962" lon="41.2472">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.3149" lon="38.2877">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.3203" lon="48.1128">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.3513" lon="38.9012">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.4351" lon="48.2424">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.456" lon="59.6092">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.5414" lon="41.2153">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.5893" lon="40.6977">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.9111" lon="41.106">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.9299" lon="52.4033">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.941" lon="41.0693">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.9544" lon="52.398">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="16.96" lon="51.0493">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="17.1081" lon="48.1327">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="17.1119" lon="48.1483">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="17.1206" lon="48.1407">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="17.3359" lon="62.4471">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="17.6717" lon="59.8765">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="17.9064" lon="59.2756">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="17.9511" lon="59.4281">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="18.0221" lon="59.3093">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="18.0323" lon="59.3349">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="18.0749" lon="59.3112">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="18.0915" lon="59.2424">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="18.2319" lon="46.072">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="18.2853" lon="49.8308">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="18.3008" lon="57.6373">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="18.7409" lon="49.225">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="18.9285" lon="69.6744">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.0265" lon="47.5083">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.0412" lon="47.4351">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.049" lon="47.475">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.0626" lon="47.5061">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.0738" lon="47.486">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.1181" lon="50.8129">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.1362" lon="48.73">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.1369" lon="47.5032">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.4475" lon="51.7807">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.4561" lon="51.7696">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.6888" lon="46.9072">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.9512" lon="49.2951">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.9564" lon="50.0525">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="19.9854" lon="50.0876">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="20.9307" lon="52.2421">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="20.9841" lon="52.257">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="20.9924" lon="52.2426">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="21.0041" lon="52.1797">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="21.0368" lon="52.2548">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="21.0865" lon="52.2441">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="21.1551" lon="55.6932">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="21.1566" lon="51.4061">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="21.6146" lon="63.0958">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="21.7353" lon="38.2487">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="21.7966" lon="61.4845">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="21.7996" lon="61.494">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="22.2017" lon="60.491">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="22.2648" lon="60.4505">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="22.4177" lon="39.6389">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="22.5508" lon="51.245">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="22.793" lon="62.7939">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="22.9471" lon="39.3612">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="23.2607" lon="55.9075">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="23.2854" lon="40.2447">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="23.57" lon="61.5575">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="23.7403" lon="37.9394">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="23.7666" lon="61.4963">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="23.7715" lon="61.4983">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="23.7905" lon="38.0447">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="23.7952" lon="61.3614">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="23.8935" lon="54.9396">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="24.1047" lon="56.9259">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="24.1208" lon="56.9542">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="24.1617" lon="56.9661">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="24.203" lon="56.9828">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="24.6519" lon="59.4261">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="24.8128" lon="60.2181">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="25.2601" lon="54.7099">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="25.6633" lon="60.983">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="26.6768" lon="58.3585">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="26.7275" lon="58.3779">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="26.944" lon="60.4666">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="32.4073" lon="34.7749">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="33.0447" lon="34.678">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="33.3585" lon="35.1816">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="33.3613" lon="35.1721">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="33.3709" lon="35.1303">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="34.6642" lon="31.7764">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="34.7749" lon="32.0964">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="34.7758" lon="31.9806">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="34.7824" lon="31.9843">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="34.7922" lon="32.0741">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="34.8031" lon="31.9496">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="34.8076" lon="31.8925">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="34.8655" lon="32.0926">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="34.8673" lon="32.3309">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="35.0082" lon="32.7894">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="39.1536" lon="21.6314">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="46.6744" lon="24.7338">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="46.7038" lon="24.7644">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="46.7285" lon="24.6958">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="50.0316" lon="26.3702">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="50.1658" lon="26.2984">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="55.2453" lon="25.093">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="126.7608" lon="37.5044">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="126.814" lon="37.4613">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="126.8169" lon="37.2068">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="126.8963" lon="37.6474">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="126.9229" lon="37.4016">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="126.9478" lon="37.3653">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.0089" lon="37.2911">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.0089" lon="37.2911">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.0089" lon="37.2911">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.0241" lon="37.5037">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.0541" lon="37.5819">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.0711" lon="37.5388">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.0981" lon="37.5111">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.1052" lon="37.5137">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.112" lon="37.3926">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.146" lon="36.9939">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.1544" lon="36.8197">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="127.2237" lon="37.5454">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="128.5948" lon="35.8706">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="128.6828" lon="35.2242">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="129.0595" lon="35.1531">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="130.3947" lon="33.585">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="130.4811" lon="33.5954">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="130.557" lon="31.5931">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="132.7632" lon="33.8357">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="133.7462" lon="34.6031">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="133.9155" lon="34.6676">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="135.4236" lon="34.7817">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="135.5608" lon="34.541">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="135.5671" lon="34.7042">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="136.5819" lon="36.5445">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="136.673" lon="35.4555">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="136.9043" lon="35.1673">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="136.9705" lon="34.9818">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="137.05" lon="35.09">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="138.8419" lon="35.1204">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.0067" lon="36.3905">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.3561" lon="35.3379">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.385" lon="35.7467">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.3892" lon="35.4559">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.5489" lon="35.8593">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.6113" lon="36.0751">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.628" lon="35.615">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.6338" lon="35.4561">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.6356" lon="35.896">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.6603" lon="35.5738">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.7071" lon="35.8342">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.7102" lon="35.7296">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.7735" lon="35.6277">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.8045" lon="35.7508">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.8527" lon="35.7646">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.9051" lon="35.8376">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="139.9892" lon="35.6883">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="140.086" lon="36.0867">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="140.9723" lon="38.3226">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+    <node lat="141.3405" lon="43.0572">
+        <tag k="brand" v="Flying Tiger Copenhagen"/>
+        <tag k="brand:wikidata" v="Q2786319"/>
+        <tag k="name" v="Flying Tiger Copenhagen"/>
+        <tag k="shop" v="variety_store"/>
+        <tag k="short_name" v="Flying Tiger"/>
+    </node>
+</osm>

@@ -4,6 +4,7 @@ import json
 from src.logging import logging
 import os
 import sys
+from src.other_formats import to_osm_xml
 
 if __name__=="__main__":
     only_open_licences=False
@@ -16,6 +17,8 @@ if __name__=="__main__":
 
     os.makedirs(os.path.dirname("data/external/"), exist_ok=True)
     os.makedirs(os.path.dirname("data/overpass/"), exist_ok=True)
+    os.makedirs(os.path.dirname("osm/"), exist_ok=True)
+    os.makedirs(os.path.dirname("geojson/"), exist_ok=True)
     download(only_open_licences)
 
     f=open("lists/nsi.json")
@@ -34,3 +37,5 @@ if __name__=="__main__":
             file_overpass.close()
         except Exception:
             pass
+
+    to_osm_xml()
