@@ -1437,5 +1437,24 @@
             },
             "open_licence": false
         }
+    ],
+    "billa-f4f534": [
+        {
+            "params": {
+                "url": "https://www.billa.at/api/stores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "coordinate",
+                    "x"
+                ],
+                "lon": [
+                    "coordinate",
+                    "y"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
