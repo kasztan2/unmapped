@@ -5,3 +5,4 @@ lists/status.json
 output/
 logs.log
 geojson/
+osm/

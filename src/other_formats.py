@@ -12,8 +12,8 @@ def to_osm_xml():
 
         count=-1
         for x in data:
-            tags=x["properties"]["tags"]
-            xml_string+=f"<node id=\"{count}\" lat=\"{x['geometry']['coordinates'][0]}\" lon=\"{x['geometry']['coordinates'][1]}\">"
+            tags=x["properties"]
+            xml_string+=f"<node id=\"{count}\" lat=\"{x['geometry']['coordinates'][0]}\" lon=\"{x['geometry']['coordinates'][1]}\" changeset=\"false\">"
             for key, value in tags.items():
                 xml_string+=f"<tag k=\"{key}\" v=\"{value}\"/>"
             xml_string+="</node>"
