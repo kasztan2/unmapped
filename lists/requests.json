@@ -138,6 +138,96 @@
             },
             "comment": "suspicious that there is only one shop unmapped",
             "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.kaufland.cz/.klstorefinder.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.kaufland.hr/.klstorefinder.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.kaufland.bg/.klstorefinder.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.kaufland.md/ro/.klstorefinder.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.kaufland.ro/.klstorefinder.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://predajne.kaufland.sk/.klstorefinder.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
         }
     ],
     "netto-bc67ba": [
