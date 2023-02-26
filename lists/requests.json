@@ -1456,5 +1456,126 @@
             },
             "open_licence": false
         }
+    ],
+    "yvesrocher-a08666": [
+        {
+            "params": {
+                "url": "https://api.esl.tauceti.tech/api/map/stores?key=bPJkhza0lBpAvWL4gB8oDwc+RcEVkrgvXkWKfak7Sos="
+            },
+            "path": {
+                "data_root": [
+                    "list"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://uberall.com/api/storefinders/2uSpo3QpFD9gt72dwdcrXoHGavm7NY/locations/all?v=20230110&language=es&fieldMask=id&fieldMask=identifier&fieldMask=googlePlaceId&fieldMask=lat&fieldMask=lng&fieldMask=name&fieldMask=country&fieldMask=city&fieldMask=province&fieldMask=streetAndNumber&fieldMask=zip&fieldMask=businessId&fieldMask=addressExtra&"
+            },
+            "path": {
+                "data_root": [
+                    "response",
+                    "locations"
+                ],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.y-r.by/api/v1/shops"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "long"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.esl.tauceti.tech/api/map/stores?key=oAVs4drOieyQDwEM/ZleCRxC3d+qLr119/LqixlU6IE="
+            },
+            "path": {
+                "data_root": [
+                    "list"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.esl.tauceti.tech/api/map/stores?key=vLeg5rKoP7rFjC4HfuuioKblPF1ijXZKAXdx59ZkjXw="
+            },
+            "path": {
+                "data_root": [
+                    "list"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://uberall.com/api/storefinders/HLGRPp968JZaR0D235dXJa5fMRPHuA/locations/all?v=20230110&language=it&fieldMask=id&fieldMask=identifier&fieldMask=googlePlaceId&fieldMask=lat&fieldMask=lng&fieldMask=name&fieldMask=country&fieldMask=city&fieldMask=province&fieldMask=streetAndNumber&fieldMask=zip&fieldMask=businessId&fieldMask=addressExtra&"
+            },
+            "path": {
+                "data_root": [
+                    "response",
+                    "locations"
+                ],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://api.esl.tauceti.tech/api/map/stores?key=GwrrfHOuLWgibdodLer1gGGbLzcPq5u3FJEZkxgb5yU="
+            },
+            "path": {
+                "data_root": [
+                    "list"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
