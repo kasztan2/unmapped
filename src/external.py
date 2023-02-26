@@ -4,6 +4,7 @@ import os
 from datetime import datetime, timedelta
 from src.logging import logging
 import pygeohash as pgh
+from bs4 import BeautifulSoup
 
 def external_request(obj_id: str, only_open_licence: bool)->None:
     logging.info("External request: starting")
@@ -50,6 +51,11 @@ def external_request(obj_id: str, only_open_licence: bool)->None:
             #if request failed, omit this entity (brand)
             logging.error(f"{obj_id}: External request error!\n{e}\nOmitting", exc_info=True)
             return
+
+        #this is for cases when data is statically loaded (in some <script> tag or something similar)
+        if "css_element_selector" in req:
+            soup=BeautifulSoup(res.text, "html.parser")
+            res.text=str(soup.select(req["css_element_selector"]).string)
         
         #ignore result if marked so, this is for pages later in list that require some cookies present
         if "ignore_result" in req and req["ignore_result"]=="yes":
