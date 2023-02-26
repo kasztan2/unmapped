@@ -1189,5 +1189,241 @@
             },
             "open_licence": false
         }
+    ],
+    "7eleven-dda8d6": [
+        {
+            "params": {
+                "url": "https://storage.googleapis.com/public-store-data-prod/stores-seven_eleven.json"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://7eleven-prod.azurewebsites.net/api/stores/all"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false,
+            "comment": "WARNING: not all of these are of 7-Eleven brand!"
+        },
+        {
+            "params": {
+                "url": "https://www.7-eleven.com.hk/en/api/store"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false,
+            "comment": "TODO: handle combined 'latlng' field",
+            "ignore_result": "yes"
+        }
+    ],
+    "esso-206565": [
+        {
+            "params": {
+                "url": "https://www.esso.com.hk/en-HK/api/RetailLocator/GetRetailLocations?Latitude1=22.09237988192586&Latitude2=22.72716627063976&Longitude1=113.10580121248432&Longitude2=115.02840863435932&DataSource=RetailGasStations&Country=HK&ResultLimit=250"
+            },
+            "path": {
+                "data_root": [
+                    "Locations"
+                ],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.esso.com.sg/en-SG/api/locator/Locations?Latitude1=1.0138028452714218&Latitude2=1.7002516616005465&Longitude1=103.17228024225776&Longitude2=104.51123898249213&DataSource=RetailGasStations&Country=SG&Customsort=False&ResultLimit=250"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.fuels.esso.co.th/en-TH/api/locator/Locations?Latitude1=2.894866517205151&Latitude2=24.12278513637957&Longitude1=79.11452315624999&Longitude2=121.96120284374999&DataSource=RetailGasStations&Country=TH&Customsort=True&ResultLimit=0"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.esso.be/nl-BE/api/RetailLocator/GetRetailLocations?Latitude1=48.51280795109772&Latitude2=55.275850878924174&Longitude1=-13.933453846679669&Longitude2=16.82826490332033&DataSource=RetailGasStations&Country=BE&ResultLimit=10000"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.esso.com.cy/en-CY/api/RetailLocator/GetRetailLocations?Latitude1=33.83556816423361&Latitude2=36.08622484671274&Longitude1=28.958723323841443&Longitude2=36.64915301134144&DataSource=RetailGasStations&Country=CY&ResultLimit=10000"
+            },
+            "path": {
+                "data_root": ["Locations"],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://carburant.esso.fr/fr-FR/api/RetailLocator/GetRetailLocations?Latitude1=39.78725529426464&Latitude2=54.581478651279006&Longitude1=-34.89474406547146&Longitude2=26.628693434528543&DataSource=RetailGasStations&Country=FR&ResultLimit=10000"
+            },
+            "path": {
+                "data_root": ["Locations"],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.esso.de/de-DE/api/locator/Locations?Latitude1=38.43480337299928&Latitude2=64.7123279697405&Longitude1=-33.05928378750001&Longitude2=52.634075587499986&DataSource=RetailGasStations&Country=DE&Customsort=False&ResultLimit=10000"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://carburanti.esso.it/it-IT/api/RetailLocator/GetRetailLocations?Latitude1=33.31617864483926&Latitude2=49.635170449306855&Longitude1=-20.686893722811263&Longitude2=40.83654377718874&DataSource=RetailGasStations&Country=IT&ResultLimit=10000"
+            },
+            "path": {
+                "data_root": ["Locations"],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.esso.lu/fr-LU/api/RetailLocator/GetRetailLocations?Latitude1=48.869784418768084&Latitude2=50.64389778818666&Longitude1=2.098907601367177&Longitude2=9.789337288867177&DataSource=RetailGasStations&Country=LU&ResultLimit=250"
+            },
+            "path": {
+                "data_root": ["Locations"],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.esso.nl/nl-NL/api/RetailLocator/GetRetailLocations?Latitude1=47.94476039282946&Latitude2=54.78713408935276&Longitude1=-12.04208194976045&Longitude2=18.71963680023955&DataSource=RetailGasStations&Country=NL&ResultLimit=10000"
+            },
+            "path": {
+                "data_root": ["Locations"],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.esso.no/nb-NO/api/locator/Locations?Latitude1=52.9515147078414&Latitude2=72.31056033263958&Longitude1=-29.519168017216916&Longitude2=56.17419135778308&DataSource=RetailGasStations&Country=NO&Customsort=False&ResultLimit=0"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.esso.co.uk/en-GB/api/locator/Locations?Latitude1=47.864256377010896&Latitude2=60.581192541442846&Longitude1=-25.752298006249998&Longitude2=17.094381681250002&DataSource=RetailGasStations&Country=GB&Customsort=False&ResultLimit=10000"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
