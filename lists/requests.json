@@ -1803,6 +1803,7 @@
                     "longitude"
                 ]
             },
+            "request_type": "post",
             "open_licence": false
         }
     ],
@@ -1901,6 +1902,29 @@
             },
             "css_element_selector": "body > script:nth-child(4)",
             "open_licence": false
+        }
+    ],
+    "tommyhilfiger-3937bd": [
+        {
+            "params": {
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "ignore_result": "yes",
+            "comment": "TODO: fix, requires setting accept-store heading"
         }
     ]
 }
