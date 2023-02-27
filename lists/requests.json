@@ -1734,6 +1734,55 @@
             },
             "css_element_selector": "#storeJSON",
             "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.levi.co.kr/stores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "#storeJSON",
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.levi.in/stores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "#storeJSON",
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.levi.co.nz/stores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "#storeJSON",
+            "open_licence": false,
+            "comment": "TODO: change to these requests: https://www.levi.com/AL/en/store-finder/store-directory"
         }
     ]
 }
