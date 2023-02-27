@@ -1784,5 +1784,26 @@
             "open_licence": false,
             "comment": "TODO: change to these requests: https://www.levi.com/AL/en/store-finder/store-directory"
         }
+    ],
+    "telepizza-658eea": [
+        {
+            "params": {
+                "url": "https://www.telepizza.es/General/GetFilteredStores/",
+                "data": {
+                    "includeSliceStores": true,
+                    "storeIds": ""
+                }
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
