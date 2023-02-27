@@ -1668,15 +1668,72 @@
             "open_licence": false
         }
     ],
-    "bricomarche-cfc45c":[{
-        "params":{
-            "url": "https://www.bricomarche.pl/api/v1/pos/pos/poses.json"
+    "bricomarche-cfc45c": [
+        {
+            "params": {
+                "url": "https://www.bricomarche.pl/api/v1/pos/pos/poses.json"
+            },
+            "path": {
+                "data_root": [
+                    "results"
+                ],
+                "lat": [
+                    "Lat"
+                ],
+                "lon": [
+                    "Lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "levis-3937bd": [
+        {
+            "params": {
+                "url": "https://www.levi.co.za/blog/wp-admin/admin-ajax.php?action=store_search&lat=0&lng=0&max_results=25&search_radius=50&autoload=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
         },
-        "path":{
-            "data_root": ["results"],
-            "lat": ["Lat"],
-            "lon": ["Lng"]
+        {
+            "params": {
+                "url": "https://www.levis.com.au/stores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "#storeJSON",
+            "open_licence": false
         },
-        "open_licence": false
-    }]
+        {
+            "params": {
+                "url": "https://www.levi.jp/stores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "#storeJSON",
+            "open_licence": false
+        }
+    ]
 }

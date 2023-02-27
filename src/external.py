@@ -55,7 +55,10 @@ def external_request(obj_id: str, only_open_licence: bool)->None:
         #this is for cases when data is statically loaded (in some <script> tag or something similar)
         if "css_element_selector" in req:
             soup=BeautifulSoup(res.text, "html.parser")
-            res.text=str(soup.select(req["css_element_selector"]).string)
+            rtext=soup.select(req["css_element_selector"])[0].getText()#.string
+            #print(rtext.getText())
+        else:
+            rtext=res.text
         
         #ignore result if marked so, this is for pages later in list that require some cookies present
         if "ignore_result" in req and req["ignore_result"]=="yes":
@@ -64,9 +67,9 @@ def external_request(obj_id: str, only_open_licence: bool)->None:
         parsed_data={}
         if "format" not in req or req["format"]=="json":
             try:
-                parsed_data=json.loads(res.text)
+                parsed_data=json.loads(rtext)
             except Exception:
-                print(res.text)
+                #print(res.text)
                 logging.error(f"{obj_id}: error loading json")
                 return
         #! more formats to come
