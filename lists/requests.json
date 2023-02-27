@@ -1667,5 +1667,16 @@
             },
             "open_licence": false
         }
-    ]
+    ],
+    "bricomarche-cfc45c":[{
+        "params":{
+            "url": "https://www.bricomarche.pl/api/v1/pos/pos/poses.json"
+        },
+        "path":{
+            "data_root": ["results"],
+            "lat": ["Lat"],
+            "lon": ["Lng"]
+        },
+        "open_licence": false
+    }]
 }
