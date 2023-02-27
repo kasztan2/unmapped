@@ -1805,5 +1805,102 @@
             },
             "open_licence": false
         }
+    ],
+    "tkmaxx-d02268": [
+        {
+            "params": {
+                "url": "https://www.tkmaxx.pl/znajdz-sklep"
+            },
+            "path": {
+                "data_root": [
+                    "store_finder",
+                    "locations"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "body > script:nth-child(4)",
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.tkmaxx.ie/find-a-store"
+            },
+            "path": {
+                "data_root": [
+                    "store_finder",
+                    "locations"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "body > script:nth-child(4)",
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.tkmaxx.at/unsere-filialen"
+            },
+            "path": {
+                "data_root": [
+                    "store_finder",
+                    "locations"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "body > script:nth-child(4)",
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.tkmaxx.nl/winkel-zoeken"
+            },
+            "path": {
+                "data_root": [
+                    "store_finder",
+                    "locations"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "body > script:nth-child(4)",
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://www.tkmaxx.de/unsere-filialen"
+            },
+            "path": {
+                "data_root": [
+                    "store_finder",
+                    "locations"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "css_element_selector": "body > script:nth-child(4)",
+            "open_licence": false
+        }
     ]
 }
