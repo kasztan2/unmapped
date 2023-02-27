@@ -64,7 +64,7 @@ def download(only_open_licence: bool)->None:
         if "name" in obj["tags"]:
             names.append(obj["tags"]["name"])
 
-        any_open_license=False
+        any_open_license=not only_open_licence
         for req in request_list[obj["id"]]:
             if req["open_licence"]:
                 any_open_license=True
