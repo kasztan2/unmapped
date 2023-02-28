@@ -5,8 +5,7 @@ from src.logging import logging
 import pygeohash as pgh
 from bs4 import BeautifulSoup
 
-requests_cache.install_cache("external_cache", backend="sqlite")
-
+requests_cache.install_cache("external_cache", backend="sqlite", expire_after=3600*24)
 
 def external_request(obj_id: str, only_open_licence: bool) -> None:
     logging.info("External request: starting")
