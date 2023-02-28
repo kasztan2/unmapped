@@ -1,26 +1,15 @@
 import requests
+import requests_cache
 import json
-import os
-from datetime import datetime, timedelta
 from src.logging import logging
 import pygeohash as pgh
 from bs4 import BeautifulSoup
 
+requests_cache.install_cache("external_cache", backend="sqlite")
+
 def external_request(obj_id: str, only_open_licence: bool)->None:
     logging.info("External request: starting")
     logging.info(f"id: {obj_id}")
-
-    file_modification_time=0
-    try:
-        file_modification_time=datetime.fromtimestamp(os.path.getmtime(f"data/external/{obj_id}.json"))
-    except:
-        file_modification_time=datetime.fromtimestamp(0)
-    
-    current_time=datetime.now()
-
-    if file_modification_time>current_time-timedelta(days=1):
-        logging.info("Same external request made less than 1 day ago, using saved version")
-        return
 
     f=open("lists/requests.json")
     requests_file=json.load(f)
@@ -55,8 +44,7 @@ def external_request(obj_id: str, only_open_licence: bool)->None:
         #this is for cases when data is statically loaded (in some <script> tag or something similar)
         if "css_element_selector" in req:
             soup=BeautifulSoup(res.text, "html.parser")
-            rtext=soup.select(req["css_element_selector"])[0].getText()#.string
-            #print(rtext.getText())
+            rtext=soup.select(req["css_element_selector"])[0].getText()
         else:
             rtext=res.text
         
@@ -69,8 +57,7 @@ def external_request(obj_id: str, only_open_licence: bool)->None:
             try:
                 parsed_data=json.loads(rtext)
             except Exception:
-                #print(res.text)
-                logging.error(f"{obj_id}: error loading json")
+                logging.error(f"{obj_id}: error loading json", exc_info=True)
                 return
         #! more formats to come
         else:

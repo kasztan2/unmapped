@@ -1,28 +1,17 @@
 import requests
+import requests_cache
 import json
 from string import Template
 import time
-import os
-from datetime import datetime, timedelta
 from src.logging import logging
 
 overpass_endpoint="https://overpass-api.de/api/interpreter"
 
+requests_cache.install_cache("overpass_cache", backend="sqlite")
+
 def overpass_request(obj_id: str, names: list, only_open_license: bool, sleep: int=120)->None:
     logging.info("Overpass request: starting")
     logging.info(f"id: {obj_id}")
-
-    file_modification_time=0
-    try:
-        file_modification_time=datetime.fromtimestamp(os.path.getmtime(f"data/overpass/{obj_id}.json"))
-    except:
-        file_modification_time=datetime.fromtimestamp(0)
-    
-    current_time=datetime.now()
-
-    if file_modification_time>current_time-timedelta(days=1):
-        logging.info("Same overpass request made less than 1 day ago, using saved version")
-        return
     
     f=open("lists/requests.json")
     requests_file=json.load(f)
@@ -50,7 +39,7 @@ def overpass_request(obj_id: str, names: list, only_open_license: bool, sleep: i
         res.raise_for_status()
         res=res.text
     except Exception:
-        logging.error("Overpass request error!")
+        logging.error("Overpass request error!", exc_info=True)
         return
     
     #loading json into dictionary
