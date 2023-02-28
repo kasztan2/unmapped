@@ -1926,5 +1926,22 @@
             "ignore_result": "yes",
             "comment": "TODO: fix, requires setting accept-store heading"
         }
+    ],
+    "blackredwhite-12c613": [
+        {
+            "params": {
+                "url": "https://www.brw.sk/ajax/zpLIv5maeKSYy8KP07immqanj-PVnJO9mA/?=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
