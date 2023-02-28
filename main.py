@@ -6,11 +6,11 @@ import os
 import sys
 from src.other_formats import to_osm_xml
 
-if __name__=="__main__":
-    only_open_licences=False
-    if len(sys.argv)>1 and sys.argv[1]=="--open_licence":
-        only_open_licences=True
-    status_file=open("lists/status.json", "w+")
+if __name__ == "__main__":
+    only_open_licences = False
+    if len(sys.argv) > 1 and sys.argv[1] == "--open_licence":
+        only_open_licences = True
+    status_file = open("lists/status.json", "w+")
     if os.path.getsize("lists/status.json") == 0:
         status_file.write("{}")
     status_file.close()
@@ -21,18 +21,20 @@ if __name__=="__main__":
     os.makedirs(os.path.dirname("geojson/"), exist_ok=True)
     download(only_open_licences)
 
-    f=open("lists/nsi.json")
-    nsi_array=json.load(f)
+    f = open("lists/nsi.json")
+    nsi_array = json.load(f)
     f.close()
 
     for obj in nsi_array:
         try:
-            file_external=open(f"data/external/{obj['id']}.json")
-            file_overpass=open(f"data/overpass/{obj['id']}.json")
+            file_external = open(f"data/external/{obj['id']}.json")
+            file_overpass = open(f"data/overpass/{obj['id']}.json")
             try:
-                compare(obj["id"], json.load(file_external), json.load(file_overpass))
+                compare(obj["id"], json.load(file_external),
+                        json.load(file_overpass))
             except Exception as e:
-                logging.error(f"{obj}: Error while comparing: {e}", exc_info=True)
+                logging.error(
+                    f"{obj}: Error while comparing: {e}", exc_info=True)
             file_external.close()
             file_overpass.close()
         except Exception:
