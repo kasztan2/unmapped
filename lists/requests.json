@@ -2,10 +2,7 @@
     "zabka-f55ead": [
         {
             "params": {
-                "url": "https://www.zabka.pl/ajax/shop-clusters.json",
-                "headers": {
-                    "User-Agent": "OSM Unmapped Project"
-                }
+                "url": "https://www.zabka.pl/ajax/shop-clusters.json"
             },
             "path": {
                 "data_root": [],
@@ -22,10 +19,7 @@
     "dino-9e6a6c": [
         {
             "params": {
-                "url": "https://marketdino.pl/wp-json/wpgmza/v1/features/?filter={\"map_id\":\"36\",\"mashupIDs\":[],\"customFields\":[]}",
-                "headers": {
-                    "User-Agent": "OSM Unmapped Project"
-                }
+                "url": "https://marketdino.pl/wp-json/wpgmza/v1/features/?filter={\"map_id\":\"36\",\"mashupIDs\":[],\"customFields\":[]}"
             },
             "path": {
                 "data_root": [
@@ -61,10 +55,7 @@
     "costa-93bf5b": [
         {
             "params": {
-                "url": "https://api.costacoffee.pl/api/storelocator/list",
-                "headers": {
-                    "User-Agent": "OSM Unmapped Project"
-                }
+                "url": "https://api.costacoffee.pl/api/storelocator/list"
             },
             "path": {
                 "data_root": [],
@@ -82,10 +73,7 @@
     "delikatesycentrum-95f41b": [
         {
             "params": {
-                "url": "https://www.delikatesy.pl/_next/data/5p3EfdiAJFSxRWOBbKg8x/sklepy.json",
-                "headers": {
-                    "User-Agent": "OSM Unmapped Project"
-                }
+                "url": "https://www.delikatesy.pl/_next/data/5p3EfdiAJFSxRWOBbKg8x/sklepy.json"
             },
             "path": {
                 "data_root": [
@@ -326,10 +314,7 @@
     "abc-95f41b": [
         {
             "params": {
-                "url": "https://sklepyabc.pl/api/sklep/distance?lat=52.5181295&lng=18.5176033&radius=1069.50",
-                "headers": {
-                    "User-Agent": "OSM Unmapped Project"
-                }
+                "url": "https://sklepyabc.pl/api/sklep/distance?lat=52.5181295&lng=18.5176033&radius=1069.50"
             },
             "path": {
                 "data_root": [],
@@ -1909,8 +1894,7 @@
             "params": {
                 "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
                 "headers": {
-                    "accept-store": "TommyPL",
-                    "User-Agent": "OSM Unmapped Project"
+                    "accept-store": "TommyPL"
                 }
             },
             "path": {
@@ -1933,8 +1917,7 @@
             "params": {
                 "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
                 "headers": {
-                    "accept-store": "TommyUK",
-                    "User-Agent": "OSM Unmapped Project"
+                    "accept-store": "TommyUK"
                 }
             },
             "path": {
@@ -1957,8 +1940,7 @@
             "params": {
                 "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
                 "headers": {
-                    "accept-store": "TommyDE",
-                    "User-Agent": "OSM Unmapped Project"
+                    "accept-store": "TommyDE"
                 }
             },
             "path": {
@@ -1981,8 +1963,7 @@
             "params": {
                 "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
                 "headers": {
-                    "accept-store": "TommyES",
-                    "User-Agent": "OSM Unmapped Project"
+                    "accept-store": "TommyES"
                 }
             },
             "path": {
@@ -2005,8 +1986,7 @@
             "params": {
                 "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
                 "headers": {
-                    "accept-store": "TommySK",
-                    "User-Agent": "OSM Unmapped Project"
+                    "accept-store": "TommySK"
                 }
             },
             "path": {
@@ -2029,8 +2009,7 @@
             "params": {
                 "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
                 "headers": {
-                    "accept-store": "TommyCZ",
-                    "User-Agent": "OSM Unmapped Project"
+                    "accept-store": "TommyCZ"
                 }
             },
             "path": {
@@ -2053,8 +2032,7 @@
             "params": {
                 "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
                 "headers": {
-                    "accept-store": "TommyCH",
-                    "User-Agent": "OSM Unmapped Project"
+                    "accept-store": "TommyCH"
                 }
             },
             "path": {
@@ -2077,8 +2055,7 @@
             "params": {
                 "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
                 "headers": {
-                    "accept-store": "TommyLT",
-                    "User-Agent": "OSM Unmapped Project"
+                    "accept-store": "TommyLT"
                 }
             },
             "path": {
@@ -2101,8 +2078,7 @@
             "params": {
                 "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
                 "headers": {
-                    "accept-store": "TommyLV",
-                    "User-Agent": "OSM Unmapped Project"
+                    "accept-store": "TommyLV"
                 }
             },
             "path": {
