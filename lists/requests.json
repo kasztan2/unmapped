@@ -2180,5 +2180,102 @@
             },
             "open_licence": false
         }
+    ],
+    "drmax-d40f7b": [
+        {
+            "params": {
+                "url": "https://pharmacy.drmax.cz/api/v1/public/pharmacies"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "latitude"
+                ],
+                "lon": [
+                    "location",
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://pharmacy.drmax.sk/api/v1/public/pharmacies"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "latitude"
+                ],
+                "lon": [
+                    "location",
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        },
+        {
+            "params": {
+                "url": "https://pharmacy.drmax.it/api/v1/public/pharmacies"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "latitude"
+                ],
+                "lon": [
+                    "location",
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "drogariaaraujo-295f06": [
+        {
+            "params": {
+                "url": "https://apparaujo.araujo.com.br/loja/lojas/buscar-lojas-mapa?"
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "drogariasaopaulo-295f06": [
+        {
+            "params": {
+                "url": "https://www.drogariasaopaulo.com.br/api/dataentities/PR/documents/f52e9e7f-a02c-11ea-8337-0a8ac637298d/arquivo/attachments/nossas-lojas.js"
+            },
+            "path": {
+                "data_root": [
+                    "retorno"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
