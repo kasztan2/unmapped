@@ -2146,5 +2146,39 @@
             "open_licence": false,
             "request_type": "post"
         }
+    ],
+    "cruzazul-235c18": [
+        {
+            "params": {
+                "url": "https://farmaciascruzazul.ec/Themes/Pharma/Content/data/locations.json?formattedAddress=&boundsNorthEast=&boundsSouthWest="
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "daylewispharmacy-b98d4f": [
+        {
+            "params": {
+                "url": "https://www.daylewis.co.uk/wp-admin/admin-ajax.php?action=asl_load_stores&nonce=af655c7173&load_all=1&layout=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
