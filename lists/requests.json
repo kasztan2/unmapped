@@ -1925,5 +1925,203 @@
             },
             "open_licence": false
         }
+    ],
+    "alliedpharmacies-c9f407": [
+        {
+            "params": {
+                "url": "https://alliedpharmacies.com/distance.php?default=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "pha_lat"
+                ],
+                "lon": [
+                    "pha_lon"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "almagyogyszertar-3674c9": [
+        {
+            "params": {
+                "url": "https://almapatika.hu/patikak"
+            },
+            "path": {
+                "data_root": [
+                    "pharmacies"
+                ],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "long"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "alphapharm-091dbc": [
+        {
+            "params": {
+                "url": "https://www.alphapharmacies.co.za/wp-admin/admin-ajax.php?action=asl_load_stores&nonce=5344dbb861&load_all=1&layout=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "amavita-7092c5": [
+        {
+            "params": {
+                "url": "https://www.amavita.ch/de/storepickup/index/loadstore/?show_in_locator=true"
+            },
+            "path": {
+                "data_root": [
+                    "storesjson"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false,
+            "request_type": "post"
+        }
+    ],
+    "antonandwillem-4ed69f": [
+        {
+            "params": {
+                "url": "https://anton-et-willem.fr/modules/storeggmap/storeggmapCall.php"
+            },
+            "path": {
+                "data_root": [
+                    "storeList"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false,
+            "request_type": "post"
+        }
+    ],
+    "apotek1-bfbf58": [
+        {
+            "params": {
+                "url": "https://api.apotek1.no/wcs/resources/store/10151/storelocator/latitude/59.9139/longitude/10.7522?maxItems=1000&radiusUOM=km&radius=2500&siteLevelStoreSearch=false"
+            },
+            "path": {
+                "data_root": [
+                    "PhysicalStore"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "apotekhjartat-bc5266": [
+        {
+            "params": {
+                "url": "https://www.apotekhjartat.se/api/findpharmacy/getsearchresult/",
+                "data": {
+                    "searchterm": "",
+                    "Pos": null,
+                    "Subregion": "",
+                    "Region": "",
+                    "Vaccine": false,
+                    "OpenNow": false
+                }
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "MapCoordinates",
+                    "lat"
+                ],
+                "lon": [
+                    "MapCoordinates",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "request_type": "post"
+        }
+    ],
+    "apoteksgruppen-bc5266": [
+        {
+            "params": {
+                "url": "https://www.apoteksgruppen.se/PharmacyService/getAll/"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "Latitude"
+                ],
+                "lon": [
+                    "Longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "bartelldrugs-3ab288": [
+        {
+            "params": {
+                "url": "https://www.bartelldrugs.com/graphql/execute.json/bartell-web/getAllStoresListByPath.json"
+            },
+            "path": {
+                "data_root": [
+                    "data",
+                    "storesList",
+                    "items"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "bloomsthechemist-a4bb5f": [
+        {
+            "params": {
+                "url": "https://api.storepoint.co/v1/15f056510a1d3a/locations?rq"
+            },
+            "path": {
+                "data_root": [
+                    "results",
+                    "locations"
+                ],
+                "lat": [
+                    "loc_lat"
+                ],
+                "lon": [
+                    "loc_long"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
