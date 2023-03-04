@@ -2123,5 +2123,28 @@
             },
             "open_licence": false
         }
+    ],
+    "coopvitality-7092c5": [
+        {
+            "params": {
+                "url": "https://www.coopvitality.ch/it/storepickup/index/loadstore/?show_in_locator=true",
+                "data": {
+                    "curPage": "1"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "storesjson"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false,
+            "request_type": "post"
+        }
     ]
 }
