@@ -21,7 +21,8 @@ def external_request(obj_id: str, only_open_licence: bool) -> None:
     session = requests.Session()
     output_data = []
 
-    # TODO make default user agent
+    # default user agent
+    user_agent={"User-Agent": "OSM Unmapped Project (https://osm-unmapped.eu)"}
 
     any_open_licence = False
 
@@ -32,6 +33,10 @@ def external_request(obj_id: str, only_open_licence: bool) -> None:
             if only_open_licence and req["open_licence"] == False:
                 continue
             any_open_licence = True
+
+            if "headers" not in req["params"]: req["params"].update({"headers": user_agent})
+            else: req["params"]["headers"].update(user_agent)
+
             if req["request_type"] == "post":
                 res = session.post(**req["params"])
             else:

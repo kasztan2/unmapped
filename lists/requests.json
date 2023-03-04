@@ -1907,7 +1907,11 @@
     "tommyhilfiger-3937bd": [
         {
             "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300"
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
+                "headers": {
+                    "accept-store": "TommyPL",
+                    "User-Agent": "OSM Unmapped Project"
+                }
             },
             "path": {
                 "data_root": [
@@ -1923,8 +1927,199 @@
                 ]
             },
             "open_licence": false,
-            "ignore_result": "yes",
-            "comment": "TODO: fix, requires setting accept-store heading"
+            "comment": "PL"
+        },
+        {
+            "params": {
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
+                "headers": {
+                    "accept-store": "TommyUK",
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "comment": "UK"
+        },
+        {
+            "params": {
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
+                "headers": {
+                    "accept-store": "TommyDE",
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "comment": "DE"
+        },
+        {
+            "params": {
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
+                "headers": {
+                    "accept-store": "TommyES",
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "comment": "ES"
+        },
+        {
+            "params": {
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
+                "headers": {
+                    "accept-store": "TommySK",
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "comment": "SK"
+        },
+        {
+            "params": {
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
+                "headers": {
+                    "accept-store": "TommyCZ",
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "comment": "CZ"
+        },
+        {
+            "params": {
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
+                "headers": {
+                    "accept-store": "TommyCH",
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "comment": "CH"
+        },
+        {
+            "params": {
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
+                "headers": {
+                    "accept-store": "TommyLT",
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "comment": "LT"
+        },
+        {
+            "params": {
+                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
+                "headers": {
+                    "accept-store": "TommyLV",
+                    "User-Agent": "OSM Unmapped Project"
+                }
+            },
+            "path": {
+                "data_root": [
+                    "data"
+                ],
+                "lat": [
+                    "location",
+                    "lat"
+                ],
+                "lon": [
+                    "location",
+                    "lng"
+                ]
+            },
+            "open_licence": false,
+            "comment": "LV"
         }
     ],
     "blackredwhite-12c613": [
