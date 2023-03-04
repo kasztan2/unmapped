@@ -1892,210 +1892,21 @@
     "tommyhilfiger-3937bd": [
         {
             "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
-                "headers": {
-                    "accept-store": "TommyPL"
-                }
+                "url": "https://global.tommy.com/en_int/api/all_store_finder"
             },
             "path": {
                 "data_root": [
                     "data"
                 ],
                 "lat": [
-                    "location",
                     "lat"
                 ],
                 "lon": [
-                    "location",
                     "lng"
                 ]
             },
             "open_licence": false,
-            "comment": "PL"
-        },
-        {
-            "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
-                "headers": {
-                    "accept-store": "TommyUK"
-                }
-            },
-            "path": {
-                "data_root": [
-                    "data"
-                ],
-                "lat": [
-                    "location",
-                    "lat"
-                ],
-                "lon": [
-                    "location",
-                    "lng"
-                ]
-            },
-            "open_licence": false,
-            "comment": "UK"
-        },
-        {
-            "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
-                "headers": {
-                    "accept-store": "TommyDE"
-                }
-            },
-            "path": {
-                "data_root": [
-                    "data"
-                ],
-                "lat": [
-                    "location",
-                    "lat"
-                ],
-                "lon": [
-                    "location",
-                    "lng"
-                ]
-            },
-            "open_licence": false,
-            "comment": "DE"
-        },
-        {
-            "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
-                "headers": {
-                    "accept-store": "TommyES"
-                }
-            },
-            "path": {
-                "data_root": [
-                    "data"
-                ],
-                "lat": [
-                    "location",
-                    "lat"
-                ],
-                "lon": [
-                    "location",
-                    "lng"
-                ]
-            },
-            "open_licence": false,
-            "comment": "ES"
-        },
-        {
-            "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
-                "headers": {
-                    "accept-store": "TommySK"
-                }
-            },
-            "path": {
-                "data_root": [
-                    "data"
-                ],
-                "lat": [
-                    "location",
-                    "lat"
-                ],
-                "lon": [
-                    "location",
-                    "lng"
-                ]
-            },
-            "open_licence": false,
-            "comment": "SK"
-        },
-        {
-            "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
-                "headers": {
-                    "accept-store": "TommyCZ"
-                }
-            },
-            "path": {
-                "data_root": [
-                    "data"
-                ],
-                "lat": [
-                    "location",
-                    "lat"
-                ],
-                "lon": [
-                    "location",
-                    "lng"
-                ]
-            },
-            "open_licence": false,
-            "comment": "CZ"
-        },
-        {
-            "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
-                "headers": {
-                    "accept-store": "TommyCH"
-                }
-            },
-            "path": {
-                "data_root": [
-                    "data"
-                ],
-                "lat": [
-                    "location",
-                    "lat"
-                ],
-                "lon": [
-                    "location",
-                    "lng"
-                ]
-            },
-            "open_licence": false,
-            "comment": "CH"
-        },
-        {
-            "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
-                "headers": {
-                    "accept-store": "TommyLT"
-                }
-            },
-            "path": {
-                "data_root": [
-                    "data"
-                ],
-                "lat": [
-                    "location",
-                    "lat"
-                ],
-                "lon": [
-                    "location",
-                    "lng"
-                ]
-            },
-            "open_licence": false,
-            "comment": "LT"
-        },
-        {
-            "params": {
-                "url": "https://live.th.prd.b2c-api.eu.pvh.cloud/physical-stores?page[limit]=100&filter[radius]=300",
-                "headers": {
-                    "accept-store": "TommyLV"
-                }
-            },
-            "path": {
-                "data_root": [
-                    "data"
-                ],
-                "lat": [
-                    "location",
-                    "lat"
-                ],
-                "lon": [
-                    "location",
-                    "lng"
-                ]
-            },
-            "open_licence": false,
-            "comment": "LV"
+            "comment": "global"
         }
     ],
     "blackredwhite-12c613": [
