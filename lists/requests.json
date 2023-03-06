@@ -2311,5 +2311,71 @@
             },
             "open_licence": false
         }
+    ],
+    "pharmacity-59b438": [
+        {
+            "params": {
+                "url": "https://api-gateway.pharmacity.vn/api/v1/seo_stores"
+            },
+            "path": {
+                "data_root": [
+                    "data",
+                    "items"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "pharmacy4less-a4bb5f": [
+        {
+            "params": {
+                "url": "https://www.pharmacy4less.com.au/slocator/json/search/",
+                "data": {
+                    "country": "AU",
+                    "address": "",
+                    "localtion_latitude": "",
+                    "localtion_longitude": "",
+                    "latitude": null,
+                    "longitude": null
+                }
+            },
+            "path": {
+                "data_root": [
+                    "maps",
+                    "items"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "request_type": "post",
+            "open_licence": false
+        }
+    ],
+    "pharmasave-a4bb5f": [
+        {
+            "params": {
+                "url": "https://www.pharmasave.com.au/wp-admin/admin-ajax.php?action=store_search&lat=-37.81363&lng=144.96306&max_results=25&search_radius=50&autoload=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
