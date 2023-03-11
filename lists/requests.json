@@ -2377,5 +2377,464 @@
             },
             "open_licence": false
         }
+    ],
+    "bakersbaristas-ff9b1e": [
+        {
+            "params": {
+                "url": "https://www.bakersbaristas.com/wp-admin/admin-ajax.php?action=asl_load_stores"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "blenzcoffee-aa8067": [
+        {
+            "params": {
+                "url": "https://www.blenz.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "altimadental-4d0a29": [
+        {
+            "params": {
+                "url": "https://www.altimadental.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "fireawaypizza-658eea": [
+        {
+            "params": {
+                "url": "https://fireaway.co.uk/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "johnnysburgercompany-60a83c": [
+        {
+            "params": {
+                "url": "https://www.johnnys.nl/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "kingpie-7fdf05": [
+        {
+            "params": {
+                "url": "https://www.kingpie.co.za/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "kokoriko-9bc101": [
+        {
+            "params": {
+                "url": "https://www.kokoriko.com.co/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "muchasgraciasmexicanfood-c26124": [
+        {
+            "params": {
+                "url": "https://www.muchasgraciasmexicanfood.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "nestletollhousecafe-4d2ff4": [
+        {
+            "params": {
+                "url": "https://nestlecafe.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "wahoosfishtaco-4d2ff4": [
+        {
+            "params": {
+                "url": "https://www.wahoos.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "57e3ef-6b115c": [
+        {
+            "params": {
+                "url": "https://www.b-eat.gr/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "metropetroleum-9ed9c0": [
+        {
+            "params": {
+                "url": "https://metropetroleum.com.au/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "petrol-b450da": [
+        {
+            "params": {
+                "url": "https://www.petrol.bg/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "fredastairedancestudios-3e2f00": [
+        {
+            "params": {
+                "url": "https://www.fredastaire.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "backereischneider-7c8926": [
+        {
+            "params": {
+                "url": "https://www.baecker-schneider.de/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "veneti-ec42d9": [
+        {
+            "params": {
+                "url": "https://fournosveneti.gr/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "charlesvogele-900aa6": [
+        {
+            "params": {
+                "url": "https://charles-voegele.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "fussl-96f120": [
+        {
+            "params": {
+                "url": "https://www.fussl.at/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "peluquerialowcost-5e03c5": [
+        {
+            "params": {
+                "url": "https://peluqueriaslowcost.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "revolutionlaundry-ca17f3": [
+        {
+            "params": {
+                "url": "https://www.revolution-laundry.de/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "motortrade-7f0c43": [
+        {
+            "params": {
+                "url": "https://motortrade.com.ph/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "hakimoptical-8232b6": [
+        {
+            "params": {
+                "url": "https://hakimoptical.ca/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "amigo-dde59d": [
+        {
+            "params": {
+                "url": "https://amigo.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "d1-271a34": [
+        {
+            "params": {
+                "url": "https://www.d1.com.co/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "foodland-a2b959": [
+        {
+            "params": {
+                "url": "https://www.foodlandgrocery.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "gulliver-0cb133": [
+        {
+            "params": {
+                "url": "https://www.supergulliver.it/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
+    ],
+    "alliancetirecompany-1d5291": [
+        {
+            "params": {
+                "url": "https://yokohama-oht.com/wp-admin/admin-ajax.php?action=asl_load_stores&load_all=1"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
