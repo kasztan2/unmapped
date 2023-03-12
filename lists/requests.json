@@ -2836,5 +2836,38 @@
             },
             "open_licence": false
         }
+    ],
+    "autofit-c95f1a": [
+        {
+            "params": {
+                "url": "https://www.autofit.de/getjson.php?route=/autofitservices/SearchService.svc/searchbycriteriabygeo",
+                "data": {
+                    "latitude": 51.0841695,
+                    "longitude": 10.5027788,
+                    "width": 0,
+                    "height": 0,
+                    "sw_lng": -115.07095166875001,
+                    "sw_lat": 34.178831180453734,
+                    "ne_lng": 136.07650926875,
+                    "ne_lat": 67.33231201199723,
+                    "leistungen": [],
+                    "zusatzleistungen": [],
+                    "hupartner": [],
+                    "language": [],
+                    "sucheingabe": ""
+                }
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "GeoY"
+                ],
+                "lon": [
+                    "GeoX"
+                ]
+            },
+            "open_licence": false,
+            "request_type": "post"
+        }
     ]
 }
