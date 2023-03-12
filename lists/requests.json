@@ -2869,5 +2869,24 @@
             "open_licence": false,
             "request_type": "post"
         }
+    ],
+    "swiatksiazki-0c5adb": [
+        {
+            "params": {
+                "url": "https://www.swiatksiazki.pl//rest/default/V1/bookshop/list?searchCriteria[sortOrders][0][direction]=ASC&searchCriteria[sortOrders][0][field]=place&_=1678586249435"
+            },
+            "path": {
+                "data_root": [
+                    "items"
+                ],
+                "lat": [
+                    "latitude"
+                ],
+                "lon": [
+                    "longitude"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
