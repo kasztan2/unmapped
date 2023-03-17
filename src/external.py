@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 requests_cache.install_cache(".cache/external_cache", backend="sqlite", expire_after=3600*24)
 
-def external_request(obj_id: str, only_open_licence: bool) -> None:
+def external_request(obj_id: str, only_open_license: bool) -> None:
     logging.info("External request: starting")
     logging.info(f"id: {obj_id}")
 
@@ -24,15 +24,15 @@ def external_request(obj_id: str, only_open_licence: bool) -> None:
     # default user agent
     user_agent={"User-Agent": "OSM Unmapped Project (https://osm-unmapped.eu)"}
 
-    any_open_licence = False
+    any_open_license = False
 
     for req in request_data:
         if "request_type" not in req:
             req["request_type"] = "get"
         try:
-            if only_open_licence and req["open_licence"] == False:
+            if only_open_license and req["open_license"] == False:
                 continue
-            any_open_licence = True
+            any_open_license = True
 
             if "headers" not in req["params"]: req["params"].update({"headers": user_agent})
             else: req["params"]["headers"].update(user_agent)
@@ -99,7 +99,7 @@ def external_request(obj_id: str, only_open_licence: bool) -> None:
                 pass
 
     # saving data to a file
-    if any_open_licence:
+    if any_open_license:
         output_file = open(f"data/external/{obj_id}.json", "w")
         output_file.write(json.dumps(output_data))
         output_file.close()

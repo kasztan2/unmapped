@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor
 nsi_list_url = "https://cdn.jsdelivr.net/npm/name-suggestion-index@6.0.20230206/dist/nsi.min.json"
 
 
-def download(only_open_licence: bool) -> None:
+def download(only_open_license: bool) -> None:
     file_modification_time = 0
     try:
         file_modification_time = datetime.fromtimestamp(
@@ -56,7 +56,7 @@ def download(only_open_licence: bool) -> None:
                 continue
 
             try:
-                f=executor.submit(external_request, obj["id"], only_open_licence)
+                f=executor.submit(external_request, obj["id"], only_open_license)
                 f.result()
             except Exception as e:
                 logging.error(
@@ -74,9 +74,9 @@ def download(only_open_licence: bool) -> None:
             if "name" in obj["tags"]:
                 names.append(obj["tags"]["name"])
 
-            any_open_license = not only_open_licence
+            any_open_license = not only_open_license
             for req in request_list[obj["id"]]:
-                if req["open_licence"]:
+                if req["open_license"]:
                     any_open_license = True
                     break
 
@@ -84,7 +84,7 @@ def download(only_open_licence: bool) -> None:
                 continue
 
             try:
-                f=executor.submit(overpass_request, obj["id"], names, only_open_licence)
+                f=executor.submit(overpass_request, obj["id"], names, only_open_license)
                 f.result()
             except Exception as e:
                 logging.error(f"{obj}: Error during overpass request: {e}")

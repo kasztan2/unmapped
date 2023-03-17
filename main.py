@@ -7,9 +7,9 @@ import sys
 from src.other_formats import to_osm_xml
 
 if __name__ == "__main__":
-    only_open_licences = False
-    if len(sys.argv) > 1 and sys.argv[1] == "--open_licence":
-        only_open_licences = True
+    only_open_licenses = False
+    if len(sys.argv) > 1 and sys.argv[1] == "--open_license":
+        only_open_licenses = True
     status_file = open("lists/status.json", "w+")
     if os.path.getsize("lists/status.json") == 0:
         status_file.write("{}")
@@ -19,7 +19,7 @@ if __name__ == "__main__":
     os.makedirs(os.path.dirname("data/overpass/"), exist_ok=True)
     os.makedirs(os.path.dirname("osm/"), exist_ok=True)
     os.makedirs(os.path.dirname("geojson/"), exist_ok=True)
-    download(only_open_licences)
+    download(only_open_licenses)
 
     f = open("lists/nsi.json")
     nsi_array = json.load(f)

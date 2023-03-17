@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Running
 Just run `python3 main.py`.   
-To run only on data licensed under open licenses, run it with option `--open_licence`.
+To run only on data licensed under open licenses, run it with option `--open_license`.
 
 ## Contributing
 Before proposing any changes to this project, please read [CONTRIBUTING.md](CONTRIBUTING.md). It's short!

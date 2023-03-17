@@ -50,7 +50,7 @@ def compare(obj_id: str, external_data: list, overpass_data: list, threshold_met
         request_data = [request_data]
 
     external_urls = list(map(lambda x: x["params"]["url"], request_data))
-    open_licence = list(map(lambda x: x["open_licence"], request_data))
+    open_license = list(map(lambda x: x["open_license"], request_data))
 
     info_output = {
         "external_request_timestamp": os.path.getmtime(f"data/external/{obj_id}.json"),
@@ -60,7 +60,7 @@ def compare(obj_id: str, external_data: list, overpass_data: list, threshold_met
         "comparison_timestamp": time.time(),
         "external_sources": external_urls,
         "data_length": len(output),
-        "open_licence": open_licence
+        "open_license": open_license
     }
 
     full_output = {

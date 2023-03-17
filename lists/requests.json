@@ -13,7 +13,7 @@
                     "lat"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "dino-9e6a6c": [
@@ -32,7 +32,7 @@
                     "lat"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "dagrasso-07fabc": [
@@ -49,7 +49,7 @@
                     "latitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "costa-93bf5b": [
@@ -67,7 +67,7 @@
                 ]
             },
             "comment": "TODO: add more branches (currently gets only cafes in Poland)",
-            "open_licence": false
+            "open_license": false
         }
     ],
     "delikatesycentrum-95f41b": [
@@ -90,7 +90,7 @@
                 ]
             },
             "comment": "WARNING: the url seems to change, probably will break sooner or later",
-            "open_licence": false
+            "open_license": false
         }
     ],
     "intermarche-986a24": [
@@ -107,7 +107,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "kaufland-464a37": [
@@ -125,7 +125,7 @@
                 ]
             },
             "comment": "suspicious that there is only one shop unmapped",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -140,7 +140,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -155,7 +155,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -170,7 +170,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -185,7 +185,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -200,7 +200,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -215,7 +215,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "netto-bc67ba": [
@@ -234,7 +234,7 @@
                     0
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -251,7 +251,7 @@
                     0
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -268,7 +268,7 @@
                     0
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "lewiatan-95f41b": [
@@ -287,7 +287,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "naszsklep-95f41b": [
@@ -308,7 +308,7 @@
             },
             "comment": "TODO fix",
             "ignore_result": "yes",
-            "open_licence": false
+            "open_license": false
         }
     ],
     "abc-95f41b": [
@@ -327,7 +327,7 @@
             },
             "comment": "TODO fix",
             "ignore_result": "yes",
-            "open_licence": false
+            "open_license": false
         }
     ],
     "groszek-95f41b": [
@@ -348,7 +348,7 @@
                     "long"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "topmarket-4d6b4b": [
@@ -366,7 +366,7 @@
                 ]
             },
             "comment": "TODO fix",
-            "open_licence": false
+            "open_license": false
         }
     ],
     "cukierniasowa-6e7edc": [
@@ -383,7 +383,7 @@
                     "location_lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "flyingtigercopenhagen-37d726": [
@@ -397,7 +397,7 @@
                 ],
                 "geohash": []
             },
-            "open_licence": true
+            "open_license": true
         }
     ],
     "krowarzywa-3eab78": [
@@ -418,7 +418,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "agatameble-ad60fa": [
@@ -437,7 +437,7 @@
                     "Lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "americansignaturefurniture-a5c7fa": [
@@ -456,7 +456,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "equivalenza-59ad61": [
@@ -473,7 +473,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "mediaexpert-2b5e29": [
@@ -490,7 +490,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "xkom-2b5e29": [
@@ -509,7 +509,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "tmobile-5f2bc1": [
@@ -528,7 +528,7 @@
                     "x"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "pizzahut-2fabb0": [
@@ -547,7 +547,7 @@
                     "geoLng"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "comment": "TODO",
             "ignore_result": "yes"
         }
@@ -568,7 +568,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -585,7 +585,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "dominos-b946c5": [
@@ -606,7 +606,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -625,7 +625,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "andotherstories-3937bd": [
@@ -644,7 +644,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -661,7 +661,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -678,7 +678,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -695,7 +695,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -712,7 +712,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -729,7 +729,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -746,7 +746,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "comment": "TODO add more countries"
         }
     ],
@@ -766,7 +766,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -783,7 +783,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "comment": "TODO add more countries"
         }
     ],
@@ -801,7 +801,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "easybathrooms-72592f": [
@@ -820,7 +820,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "doctorsofphysicaltherapy-61735f": [
@@ -837,7 +837,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "lifemarkphysiotherapy-a46221": [
@@ -856,7 +856,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "request_type": "post"
         }
     ],
@@ -880,7 +880,7 @@
                     "lon"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "jessops-916aa2": [
@@ -897,7 +897,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "dogtopia-03770a": [
@@ -920,7 +920,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "petsuites-a2c409": [
@@ -942,7 +942,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "k1speed-fb63c7": [
@@ -959,7 +959,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "xgolf-8a88af": [
@@ -983,7 +983,7 @@
                 ]
             },
             "request_type": "post",
-            "open_licence": false
+            "open_license": false
         }
     ],
     "empik-0c5adb": [
@@ -1000,7 +1000,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "request_type": "post"
         }
     ],
@@ -1020,7 +1020,7 @@
                     "geoLng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "kfc-9bf4b8": [
@@ -1039,7 +1039,7 @@
                     "geoLng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1056,7 +1056,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1073,7 +1073,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1090,7 +1090,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1107,7 +1107,7 @@
                     "geoLng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1124,7 +1124,7 @@
                     "geoLng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1141,7 +1141,7 @@
                     "geoLng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1158,7 +1158,7 @@
                     "geoLng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "dunkin-e46fb5": [
@@ -1175,7 +1175,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1190,7 +1190,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1208,7 +1208,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1225,7 +1225,7 @@
                     "pointY"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "papajohns-658eea": [
@@ -1245,7 +1245,7 @@
                 ]
             },
             "request_type": "post",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1262,7 +1262,7 @@
                     "xaxis"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "7eleven-dda8d6": [
@@ -1281,7 +1281,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1296,7 +1296,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "comment": "WARNING: not all of these are of 7-Eleven brand!"
         },
         {
@@ -1312,7 +1312,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "comment": "TODO: handle combined 'latlng' field",
             "ignore_result": "yes"
         }
@@ -1333,7 +1333,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1348,7 +1348,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1363,7 +1363,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1380,7 +1380,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1397,7 +1397,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1412,7 +1412,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1429,7 +1429,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1446,7 +1446,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1463,7 +1463,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1478,7 +1478,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1493,7 +1493,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "esso-56d9b3": [
@@ -1510,7 +1510,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "billa-f4f534": [
@@ -1529,7 +1529,7 @@
                     "x"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "yvesrocher-a08666": [
@@ -1548,7 +1548,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1566,7 +1566,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1581,7 +1581,7 @@
                     "long"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1598,7 +1598,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1615,7 +1615,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1633,7 +1633,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1650,7 +1650,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "bricomarche-cfc45c": [
@@ -1669,7 +1669,7 @@
                     "Lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "levis-3937bd": [
@@ -1686,7 +1686,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1702,7 +1702,7 @@
                 ]
             },
             "css_element_selector": "#storeJSON",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1718,7 +1718,7 @@
                 ]
             },
             "css_element_selector": "#storeJSON",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1734,7 +1734,7 @@
                 ]
             },
             "css_element_selector": "#storeJSON",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1750,7 +1750,7 @@
                 ]
             },
             "css_element_selector": "#storeJSON",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1766,7 +1766,7 @@
                 ]
             },
             "css_element_selector": "#storeJSON",
-            "open_licence": false,
+            "open_license": false,
             "comment": "TODO: change to these requests: https://www.levi.com/AL/en/store-finder/store-directory"
         }
     ],
@@ -1789,7 +1789,7 @@
                 ]
             },
             "request_type": "post",
-            "open_licence": false
+            "open_license": false
         }
     ],
     "tkmaxx-d02268": [
@@ -1810,7 +1810,7 @@
                 ]
             },
             "css_element_selector": "body > script:nth-child(4)",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1829,7 +1829,7 @@
                 ]
             },
             "css_element_selector": "body > script:nth-child(4)",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1848,7 +1848,7 @@
                 ]
             },
             "css_element_selector": "body > script:nth-child(4)",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1867,7 +1867,7 @@
                 ]
             },
             "css_element_selector": "body > script:nth-child(4)",
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -1886,7 +1886,7 @@
                 ]
             },
             "css_element_selector": "body > script:nth-child(4)",
-            "open_licence": false
+            "open_license": false
         }
     ],
     "tommyhilfiger-3937bd": [
@@ -1905,7 +1905,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "comment": "global"
         }
     ],
@@ -1923,7 +1923,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "alliedpharmacies-c9f407": [
@@ -1940,7 +1940,7 @@
                     "pha_lon"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "almagyogyszertar-3674c9": [
@@ -1959,7 +1959,7 @@
                     "long"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "alphapharm-091dbc": [
@@ -1976,7 +1976,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "amavita-7092c5": [
@@ -1995,7 +1995,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "request_type": "post"
         }
     ],
@@ -2015,7 +2015,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "request_type": "post"
         }
     ],
@@ -2035,7 +2035,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "apotekhjartat-bc5266": [
@@ -2062,7 +2062,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "request_type": "post"
         }
     ],
@@ -2080,7 +2080,7 @@
                     "Longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "bartelldrugs-3ab288": [
@@ -2101,7 +2101,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "bloomsthechemist-a4bb5f": [
@@ -2121,7 +2121,7 @@
                     "loc_long"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "coopvitality-7092c5": [
@@ -2143,7 +2143,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "request_type": "post"
         }
     ],
@@ -2161,7 +2161,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "daylewispharmacy-b98d4f": [
@@ -2178,7 +2178,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "drmax-d40f7b": [
@@ -2199,7 +2199,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -2218,7 +2218,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         },
         {
             "params": {
@@ -2237,7 +2237,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "drogariaaraujo-295f06": [
@@ -2256,7 +2256,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "drogariasaopaulo-295f06": [
@@ -2275,7 +2275,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "farmaciahipermaxi-552afd": [
@@ -2292,7 +2292,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "farmaciasdeldrsimi-369474": [
@@ -2309,7 +2309,7 @@
                     "longitud"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "pharmacity-59b438": [
@@ -2329,7 +2329,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "pharmacy4less-a4bb5f": [
@@ -2358,7 +2358,7 @@
                 ]
             },
             "request_type": "post",
-            "open_licence": false
+            "open_license": false
         }
     ],
     "pharmasave-a4bb5f": [
@@ -2375,7 +2375,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "bakersbaristas-ff9b1e": [
@@ -2392,7 +2392,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "blenzcoffee-aa8067": [
@@ -2409,7 +2409,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "altimadental-4d0a29": [
@@ -2426,7 +2426,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "fireawaypizza-658eea": [
@@ -2443,7 +2443,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "johnnysburgercompany-60a83c": [
@@ -2460,7 +2460,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "kingpie-7fdf05": [
@@ -2477,7 +2477,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "kokoriko-9bc101": [
@@ -2494,7 +2494,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "muchasgraciasmexicanfood-c26124": [
@@ -2511,7 +2511,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "nestletollhousecafe-4d2ff4": [
@@ -2528,7 +2528,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "wahoosfishtaco-4d2ff4": [
@@ -2545,7 +2545,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "57e3ef-6b115c": [
@@ -2562,7 +2562,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "metropetroleum-9ed9c0": [
@@ -2579,7 +2579,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "petrol-b450da": [
@@ -2596,7 +2596,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "fredastairedancestudios-3e2f00": [
@@ -2613,7 +2613,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "backereischneider-7c8926": [
@@ -2630,7 +2630,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "veneti-ec42d9": [
@@ -2647,7 +2647,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "charlesvogele-900aa6": [
@@ -2664,7 +2664,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "fussl-96f120": [
@@ -2681,7 +2681,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "peluquerialowcost-5e03c5": [
@@ -2698,7 +2698,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "revolutionlaundry-ca17f3": [
@@ -2715,7 +2715,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "motortrade-7f0c43": [
@@ -2732,7 +2732,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "hakimoptical-8232b6": [
@@ -2749,7 +2749,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "amigo-dde59d": [
@@ -2766,7 +2766,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "d1-271a34": [
@@ -2783,7 +2783,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "foodland-a2b959": [
@@ -2800,7 +2800,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "gulliver-0cb133": [
@@ -2817,7 +2817,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "alliancetirecompany-1d5291": [
@@ -2834,7 +2834,7 @@
                     "lng"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ],
     "autofit-c95f1a": [
@@ -2866,7 +2866,7 @@
                     "GeoX"
                 ]
             },
-            "open_licence": false,
+            "open_license": false,
             "request_type": "post"
         }
     ],
@@ -2886,7 +2886,7 @@
                     "longitude"
                 ]
             },
-            "open_licence": false
+            "open_license": false
         }
     ]
 }
