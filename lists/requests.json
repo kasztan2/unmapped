@@ -2909,5 +2909,26 @@
             "open_license": false,
             "format": "xml"
         }
+    ],
+    "superdrug-956ac7": [
+        {
+            "params": {
+                "url": "https://api.superdrug.com/api/v2/sd/stores?country=GB&fields=FULL&pageSize=10000&lang=en_GB&curr=GBP"
+            },
+            "path": {
+                "data_root": [
+                    "stores"
+                ],
+                "lat": [
+                    "geoPoint",
+                    "latitude"
+                ],
+                "lon": [
+                    "geoPoint",
+                    "longitude"
+                ]
+            },
+            "open_license": false
+        }
     ]
 }
