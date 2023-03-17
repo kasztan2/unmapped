@@ -16,7 +16,6 @@ if __name__ == "__main__":
 
     os.makedirs(os.path.dirname("data/external/"), exist_ok=True)
     os.makedirs(os.path.dirname("data/overpass/"), exist_ok=True)
-    os.makedirs(os.path.dirname("osm/"), exist_ok=True)
     os.makedirs(os.path.dirname("geojson/"), exist_ok=True)
     download(only_open_licenses)
 
