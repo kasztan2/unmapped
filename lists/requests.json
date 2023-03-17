@@ -2949,5 +2949,24 @@
             },
             "open_license": false
         }
+    ],
+    "o2-8befd0": [
+        {
+            "params": {
+                "url": "https://storesservice.o2.co.uk/stores/v2/near?latitude=51.5072178&longitude=-0.1275862&maxStores=10000"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "location",
+                    "latitude"
+                ],
+                "lon": [
+                    "location",
+                    "longitude"
+                ]
+            },
+            "open_license": false
+        }
     ]
 }
