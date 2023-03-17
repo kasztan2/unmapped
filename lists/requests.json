@@ -2913,7 +2913,7 @@
     "superdrug-956ac7": [
         {
             "params": {
-                "url": "https://api.superdrug.com/api/v2/sd/stores?country=GB&fields=FULL&pageSize=10000&lang=en_GB&curr=GBP"
+                "url": "https://api.superdrug.com/api/v2/sd/stores?country=GB&fields=FULL&pageSize=1000&lang=en_GB&curr=GBP"
             },
             "path": {
                 "data_root": [
@@ -2925,6 +2925,25 @@
                 ],
                 "lon": [
                     "geoPoint",
+                    "longitude"
+                ]
+            },
+            "open_license": false
+        }
+    ],
+    "greggs-45095e": [
+        {
+            "params": {
+                "url": "https://production-digital.greggs.co.uk/api/v1.0/shops?latitude=52.21074493455912&longitude=-4.0650799999999965&distanceInMeters=2000000"
+            },
+            "path": {
+                "data_root": [],
+                "lat": [
+                    "address",
+                    "latitude"
+                ],
+                "lon": [
+                    "address",
                     "longitude"
                 ]
             },
