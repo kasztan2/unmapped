@@ -2,5 +2,6 @@ beautifulsoup4==4.11.2
 numpy==1.23.3
 pygeohash==1.2.0
 requests==2.27.1
-requests_cache==0.9.8
-scikit_learn==1.2.1
+requests_cache==1.0.0
+scikit_learn==1.2.2
+xmltodict==0.13.0

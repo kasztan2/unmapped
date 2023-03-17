@@ -2888,5 +2888,26 @@
             },
             "open_license": false
         }
+    ],
+    "muffinbreak-66b6c2": [
+        {
+            "params": {
+                "url": "https://muffinbreak.co.uk/wp-admin/admin-ajax.php?action=load_store_locations"
+            },
+            "path": {
+                "data_root": [
+                    "markers",
+                    "marker"
+                ],
+                "lat": [
+                    "@lat"
+                ],
+                "lon": [
+                    "@lng"
+                ]
+            },
+            "open_license": false,
+            "format": "xml"
+        }
     ]
 }

@@ -4,8 +4,11 @@ import json
 from src.logging import logging
 import pygeohash as pgh
 from bs4 import BeautifulSoup
+import xmltodict
 
-requests_cache.install_cache(".cache/external_cache", backend="sqlite", expire_after=3600*24)
+requests_cache.install_cache(
+    ".cache/external_cache", backend="sqlite", expire_after=3600*24)
+
 
 def external_request(obj_id: str, only_open_license: bool) -> None:
     logging.info("External request: starting")
@@ -22,7 +25,8 @@ def external_request(obj_id: str, only_open_license: bool) -> None:
     output_data = []
 
     # default user agent
-    user_agent={"User-Agent": "OSM Unmapped Project (https://osm-unmapped.eu)"}
+    user_agent = {
+        "User-Agent": "OSM Unmapped Project (https://osm-unmapped.eu)"}
 
     any_open_license = False
 
@@ -34,8 +38,10 @@ def external_request(obj_id: str, only_open_license: bool) -> None:
                 continue
             any_open_license = True
 
-            if "headers" not in req["params"]: req["params"].update({"headers": user_agent})
-            else: req["params"]["headers"].update(user_agent)
+            if "headers" not in req["params"]:
+                req["params"].update({"headers": user_agent})
+            else:
+                req["params"]["headers"].update(user_agent)
 
             if req["request_type"] == "post":
                 res = session.post(**req["params"])
@@ -64,6 +70,12 @@ def external_request(obj_id: str, only_open_license: bool) -> None:
                 parsed_data = json.loads(rtext)
             except Exception:
                 logging.error(f"{obj_id}: error loading json", exc_info=True)
+                return
+        elif req["format"] == "xml":
+            try:
+                parsed_data = xmltodict.parse(rtext)
+            except Exception:
+                logging.error(f"{obj_id}: error loading xml", exc_info=True)
                 return
         #! more formats to come
         else:
