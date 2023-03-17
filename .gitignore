@@ -6,4 +6,4 @@ output/
 logs.log
 geojson/
 osm/
-*.sqlite
+.cache/

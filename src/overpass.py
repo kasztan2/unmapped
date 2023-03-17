@@ -7,7 +7,7 @@ from src.logging import logging
 
 overpass_endpoint = "https://overpass-api.de/api/interpreter"
 
-requests_cache.install_cache("overpass_cache", backend="sqlite", expire_after=3600*24)
+requests_cache.install_cache(".cache/overpass_cache", backend="sqlite", expire_after=3600*24)
 
 
 def overpass_request(obj_id: str, names: list, only_open_license: bool, sleep: int = 120) -> None:
