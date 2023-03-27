@@ -2968,5 +2968,24 @@
             },
             "open_license": false
         }
+    ],
+    "biofutur-c89743": [
+        {
+            "params": {
+                "url": "https://www.biofutur.eu/wp-json/wpgmza/v1/features/base64eJyrVkrLzClJLVKyUqqOUcpNLIjPTIlRsopRMoxR0gEJFGeUFni6FAPFomOBAsmlxSX5uW6ZqTkpELFapVoABU0Wug"
+            },
+            "path": {
+                "data_root": [
+                    "markers"
+                ],
+                "lat": [
+                    "lat"
+                ],
+                "lon": [
+                    "lng"
+                ]
+            },
+            "open_licence": false
+        }
     ]
 }
