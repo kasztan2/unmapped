@@ -5,7 +5,6 @@ from src.overpass import overpass_request
 from datetime import datetime, timedelta
 import os
 from src.logging import logging
-from concurrent.futures import ThreadPoolExecutor
 
 nsi_list_url = "https://cdn.jsdelivr.net/npm/name-suggestion-index@6.0.20230206/dist/nsi.min.json"
 
@@ -50,41 +49,37 @@ def download(only_open_license: bool) -> None:
     request_list = json.load(f)
     f.close()
 
-    with ThreadPoolExecutor(max_workers=3) as executor:
-        for obj in nsi_array:
-            if obj["id"] not in request_list.keys():
-                continue
+    for obj in nsi_array:
+        if obj["id"] not in request_list.keys():
+            continue
 
-            try:
-                f=executor.submit(external_request, obj["id"], only_open_license)
-                f.result()
-            except Exception as e:
-                logging.error(
-                    f"{obj}: Error during external request: {e}", exc_info=True)
+        try:
+            external_request(obj["id"], only_open_license)
+            print(f"ext: {obj['id']}\nonly open: {only_open_license}")
+        except Exception as e:
+            logging.error(
+                f"{obj}: Error during external request: {e}", exc_info=True)
 
+    for obj in nsi_array:
+        if obj["id"] not in request_list.keys():
+            continue
 
-    with ThreadPoolExecutor(max_workers=3) as executor:
-        for obj in nsi_array:
-            if obj["id"] not in request_list.keys():
-                continue
+        names = [obj["displayName"]]
+        if "brand" in obj["tags"]:
+            names.append(obj["tags"]["brand"])
+        if "name" in obj["tags"]:
+            names.append(obj["tags"]["name"])
 
-            names = [obj["displayName"]]
-            if "brand" in obj["tags"]:
-                names.append(obj["tags"]["brand"])
-            if "name" in obj["tags"]:
-                names.append(obj["tags"]["name"])
+        any_open_license = not only_open_license
+        for req in request_list[obj["id"]]:
+            if req["open_license"]:
+                any_open_license = True
+                break
 
-            any_open_license = not only_open_license
-            for req in request_list[obj["id"]]:
-                if req["open_license"]:
-                    any_open_license = True
-                    break
+        if any_open_license == False:
+            continue
 
-            if any_open_license == False:
-                continue
-
-            try:
-                f=executor.submit(overpass_request, obj["id"], names, only_open_license)
-                f.result()
-            except Exception as e:
-                logging.error(f"{obj}: Error during overpass request: {e}")
+        try:
+            overpass_request(obj["id"], names, only_open_license)
+        except Exception as e:
+            logging.error(f"{obj}: Error during overpass request: {e}")

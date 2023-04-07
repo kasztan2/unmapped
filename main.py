@@ -4,6 +4,7 @@ import json
 from src.logging import logging
 import os
 import sys
+import pymongo
 
 if __name__ == "__main__":
     only_open_licenses = False
@@ -23,13 +24,15 @@ if __name__ == "__main__":
     nsi_array = json.load(f)
     f.close()
 
+    mongo_client=pymongo.MongoClient("mongodb://localhost:27017/")
+
     for obj in nsi_array:
         try:
             file_external = open(f"data/external/{obj['id']}.json")
             file_overpass = open(f"data/overpass/{obj['id']}.json")
             try:
                 compare(obj["id"], json.load(file_external),
-                        json.load(file_overpass))
+                        json.load(file_overpass), mongo_client=mongo_client)
             except Exception as e:
                 logging.error(
                     f"{obj}: Error while comparing: {e}", exc_info=True)

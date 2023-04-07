@@ -5,6 +5,7 @@ import json
 import os
 from src.logging import logging
 import time
+import pymongo
 
 earth_radius = 6378000
 
@@ -23,7 +24,7 @@ def find_nearest(tree: BallTree, point: list[float]) -> tuple:
     return (ind, dist)
 
 
-def compare(obj_id: str, external_data: list, overpass_data: list, threshold_meters: float = 500.) -> None:
+def compare(obj_id: str, external_data: list, overpass_data: list, mongo_client: pymongo.MongoClient, threshold_meters: float = 500.) -> None:
     logging.info(f"Comparing {obj_id}")
 
     overpass_tree = init_tree([[x["lat"], x["lon"]] for x in overpass_data])
@@ -39,8 +40,8 @@ def compare(obj_id: str, external_data: list, overpass_data: list, threshold_met
             overpass_tree, [obj["lat"], obj["lon"]])
 
         if min_distance > threshold_meters:
-            output.append({"type": "Feature", "properties": {
-                          **nsi_data["tags"]}, "geometry": {"coordinates": [obj["lon"], obj["lat"]], "type": "Point"}})
+            mongo_client["output"][obj_id].insert_one({"type": "Feature", "properties": {
+                **nsi_data["tags"]}, "geometry": {"coordinates": [obj["lon"], obj["lat"]], "type": "Point"}})
 
     with open("lists/requests.json") as f:
         requests_data = json.load(f)
@@ -63,11 +64,11 @@ def compare(obj_id: str, external_data: list, overpass_data: list, threshold_met
         "open_license": open_license
     }
 
-    full_output = {
-        "type": "FeatureCollection",
-        "info": info_output,
-        "features": output
-    }
+    #full_output = {
+    #    "type": "FeatureCollection",
+    #    "info": info_output,
+    #    "features": output
+    #}
 
     with open("lists/status.json") as f:
         arr = json.load(f)
@@ -76,9 +77,9 @@ def compare(obj_id: str, external_data: list, overpass_data: list, threshold_met
         json.dump(arr, f)
 
     logging.info(f"Output data length: {len(output)}")
-    os.makedirs(os.path.dirname(f"geojson/{obj_id}.geojson"), exist_ok=True)
-    f = open(f"geojson/{obj_id}.geojson", "w")
-    logging.info("Saving")
-    f.write(json.dumps(full_output))
-    f.close()
+    #os.makedirs(os.path.dirname(f"geojson/{obj_id}.geojson"), exist_ok=True)
+    #f = open(f"geojson/{obj_id}.geojson", "w")
+    #logging.info("Saving")
+    #f.write(json.dumps(full_output))
+    #f.close()
     logging.info("Done")
