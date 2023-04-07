@@ -5,11 +5,12 @@ from src.overpass import overpass_request
 from datetime import datetime, timedelta
 import os
 from src.logging import logging
+import pymongo
 
 nsi_list_url = "https://cdn.jsdelivr.net/npm/name-suggestion-index@6.0.20230206/dist/nsi.min.json"
 
 
-def download(only_open_license: bool) -> None:
+def download(only_open_license: bool, mongo_client: pymongo.MongoClient) -> None:
     file_modification_time = 0
     try:
         file_modification_time = datetime.fromtimestamp(
@@ -54,8 +55,7 @@ def download(only_open_license: bool) -> None:
             continue
 
         try:
-            external_request(obj["id"], only_open_license)
-            print(f"ext: {obj['id']}\nonly open: {only_open_license}")
+            external_request(obj["id"], only_open_license, mongo_client)
         except Exception as e:
             logging.error(
                 f"{obj}: Error during external request: {e}", exc_info=True)
@@ -80,6 +80,6 @@ def download(only_open_license: bool) -> None:
             continue
 
         try:
-            overpass_request(obj["id"], names, only_open_license)
+            overpass_request(obj["id"], names, only_open_license, mongo_client)
         except Exception as e:
             logging.error(f"{obj}: Error during overpass request: {e}")

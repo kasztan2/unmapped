@@ -5,12 +5,13 @@ from src.logging import logging
 import pygeohash as pgh
 from bs4 import BeautifulSoup
 import xmltodict
+import pymongo
 
 requests_cache.install_cache(
     ".cache/external_cache", backend="sqlite", expire_after=3600*24)
 
 
-def external_request(obj_id: str, only_open_license: bool) -> None:
+def external_request(obj_id: str, only_open_license: bool, mongo_client: pymongo.MongoClient) -> None:
     logging.info("External request: starting")
     logging.info(f"id: {obj_id}")
 
@@ -111,9 +112,13 @@ def external_request(obj_id: str, only_open_license: bool) -> None:
                 pass
 
     # saving data to a file
-    if any_open_license:
-        output_file = open(f"data/external/{obj_id}.json", "w")
-        output_file.write(json.dumps(output_data))
-        output_file.close()
+    # if any_open_license:
+    #    output_file = open(f"data/external/{obj_id}.json", "w")
+    #    output_file.write(json.dumps(output_data))
+    #    output_file.close()
+
+    # saving data to a database
+    if len(output_data):
+        mongo_client["external"][obj_id].insert_many(output_data)
 
     logging.info("External request: done")

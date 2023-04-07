@@ -1,3 +1,4 @@
+import pymongo
 import requests
 import requests_cache
 import json
@@ -7,10 +8,11 @@ from src.logging import logging
 
 overpass_endpoint = "https://overpass-api.de/api/interpreter"
 
-requests_cache.install_cache(".cache/overpass_cache", backend="sqlite", expire_after=3600*24)
+requests_cache.install_cache(
+    ".cache/overpass_cache", backend="sqlite", expire_after=3600*24)
 
 
-def overpass_request(obj_id: str, names: list, only_open_license: bool, sleep: int = 120) -> None:
+def overpass_request(obj_id: str, names: list, only_open_license: bool, mongo_client: pymongo.MongoClient, sleep: int = 120) -> None:
     logging.info("Overpass request: starting")
     logging.info(f"id: {obj_id}")
 
@@ -92,8 +94,11 @@ def overpass_request(obj_id: str, names: list, only_open_license: bool, sleep: i
         raise Exception("Overpass query returned no results!")
 
     # saving data to a file
-    output_file = open(f"data/overpass/{obj_id}.json", "w")
-    output_file.write(json.dumps(res))
-    output_file.close()
+    # output_file = open(f"data/overpass/{obj_id}.json", "w")
+    # output_file.write(json.dumps(res))
+    # output_file.close()
+
+    # saving data to a database
+    mongo_client["overpass"][obj_id].insert_many(res)
 
     logging.info("Overpass request: done")

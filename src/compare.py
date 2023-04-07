@@ -24,8 +24,14 @@ def find_nearest(tree: BallTree, point: list[float]) -> tuple:
     return (ind, dist)
 
 
-def compare(obj_id: str, external_data: list, overpass_data: list, mongo_client: pymongo.MongoClient, threshold_meters: float = 500.) -> None:
+def compare(obj_id: str, mongo_client: pymongo.MongoClient, threshold_meters: float = 500.) -> None:
     logging.info(f"Comparing {obj_id}")
+
+    overpass_data = list(mongo_client["overpass"][obj_id].find())
+    external_data = list(mongo_client["external"][obj_id].find())
+
+    if len(overpass_data) == 0:
+        return
 
     overpass_tree = init_tree([[x["lat"], x["lon"]] for x in overpass_data])
     output = []
@@ -54,8 +60,6 @@ def compare(obj_id: str, external_data: list, overpass_data: list, mongo_client:
     open_license = list(map(lambda x: x["open_license"], request_data))
 
     info_output = {
-        "external_request_timestamp": os.path.getmtime(f"data/external/{obj_id}.json"),
-        "overpass_request_timestamp": os.path.getmtime(f"data/overpass/{obj_id}.json"),
         "nsi_id": obj_id,
         "threshold_in_meters": threshold_meters,
         "comparison_timestamp": time.time(),
@@ -64,22 +68,14 @@ def compare(obj_id: str, external_data: list, overpass_data: list, mongo_client:
         "open_license": open_license
     }
 
-    #full_output = {
+    # full_output = {
     #    "type": "FeatureCollection",
     #    "info": info_output,
     #    "features": output
-    #}
+    # }
 
-    with open("lists/status.json") as f:
-        arr = json.load(f)
-    arr.update({f"{obj_id}": info_output})
-    with open("lists/status.json", "w") as f:
-        json.dump(arr, f)
+    mongo_client["status"]["status"].replace_one(
+        {"nsi_id": obj_id}, info_output, upsert=True)
 
     logging.info(f"Output data length: {len(output)}")
-    #os.makedirs(os.path.dirname(f"geojson/{obj_id}.geojson"), exist_ok=True)
-    #f = open(f"geojson/{obj_id}.geojson", "w")
-    #logging.info("Saving")
-    #f.write(json.dumps(full_output))
-    #f.close()
     logging.info("Done")
