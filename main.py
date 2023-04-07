@@ -13,6 +13,10 @@ if __name__ == "__main__":
 
     mongo_client = pymongo.MongoClient("mongodb://localhost:27017/")
 
+    mongo_client.drop_database("external")
+    mongo_client.drop_database("overpass")
+    mongo_client.drop_database("output")
+
     download(only_open_licenses, mongo_client)
 
     f = open("lists/nsi.json")
