@@ -34,3 +34,5 @@ if __name__ == "__main__":
         except Exception as e:
             logging.error(
                 f"{obj}: Error while comparing: {e}", exc_info=True)
+
+    mongo_client["output"]["all"].create_index({"geometry": "2dsphere"})
