@@ -50,10 +50,8 @@ def compare(obj_id: str, mongo_client: pymongo.MongoClient, threshold_meters: fl
         if min_distance > threshold_meters:
             x=mongo_client["output"][obj_id].insert_one({"type": "Feature", "properties": {
                 **nsi_data["tags"]}, "geometry": {"coordinates": [obj["lon"], obj["lat"]], "type": "Point"}})
-            print(x)
             x=mongo_client["output"]["all"].insert_one({"type": "Feature", "nsi_id": obj_id, "properties": {
                 **nsi_data["tags"]}, "geometry": {"coordinates": [obj["lon"], obj["lat"]], "type": "Point"}})
-            print(x)
 
     with open("lists/requests.json") as f:
         requests_data = json.load(f)
