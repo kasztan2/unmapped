@@ -35,4 +35,4 @@ if __name__ == "__main__":
             logging.error(
                 f"{obj}: Error while comparing: {e}", exc_info=True)
 
-    mongo_client["output"]["all"].create_index({"geometry": "2dsphere"})
+    mongo_client["output"]["all"].create_index([("geometry", pymongo.GEOSPHERE)])

@@ -51,7 +51,7 @@ def compare(obj_id: str, mongo_client: pymongo.MongoClient, threshold_meters: fl
             mongo_client["all"][obj_id].insert_one({"type": "Feature", "nsi_id": obj_id, "properties": {
                 **nsi_data["tags"]}, "geometry": {"coordinates": [obj["lon"], obj["lat"]], "type": "Point"}})
 
-    mongo_client["output"][obj_id].create_index({"geometry": "2dsphere"})
+    mongo_client["output"][obj_id].create_index([("geometry", pymongo.GEOSPHERE)])
 
     with open("lists/requests.json") as f:
         requests_data = json.load(f)
