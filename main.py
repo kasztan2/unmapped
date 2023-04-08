@@ -26,13 +26,13 @@ if __name__ == "__main__":
     collection_names = list(set(mongo_client["external"].list_collection_names(
     )).intersection(set(mongo_client["overpass"].list_collection_names())))
 
+    mongo_client["output"]["all"].create_index([("geometry", pymongo.GEOSPHERE)])
+
     for obj in nsi_array:
-        if obj not in collection_names:
+        if obj["id"] not in collection_names:
             continue
         try:
             compare(obj["id"], mongo_client=mongo_client)
         except Exception as e:
             logging.error(
                 f"{obj}: Error while comparing: {e}", exc_info=True)
-
-    mongo_client["output"]["all"].create_index([("geometry", pymongo.GEOSPHERE)])

@@ -41,17 +41,19 @@ def compare(obj_id: str, mongo_client: pymongo.MongoClient, threshold_meters: fl
 
     nsi_data = [x for x in nsi_data if x["id"] == obj_id][0]
 
+    mongo_client["output"][obj_id].create_index([("geometry", pymongo.GEOSPHERE)])
+
     for obj in external_data:
         num, min_distance = find_nearest(
             overpass_tree, [obj["lat"], obj["lon"]])
 
         if min_distance > threshold_meters:
-            mongo_client["output"][obj_id].insert_one({"type": "Feature", "properties": {
+            x=mongo_client["output"][obj_id].insert_one({"type": "Feature", "properties": {
                 **nsi_data["tags"]}, "geometry": {"coordinates": [obj["lon"], obj["lat"]], "type": "Point"}})
-            mongo_client["all"][obj_id].insert_one({"type": "Feature", "nsi_id": obj_id, "properties": {
+            print(x)
+            x=mongo_client["output"]["all"].insert_one({"type": "Feature", "nsi_id": obj_id, "properties": {
                 **nsi_data["tags"]}, "geometry": {"coordinates": [obj["lon"], obj["lat"]], "type": "Point"}})
-
-    mongo_client["output"][obj_id].create_index([("geometry", pymongo.GEOSPHERE)])
+            print(x)
 
     with open("lists/requests.json") as f:
         requests_data = json.load(f)
