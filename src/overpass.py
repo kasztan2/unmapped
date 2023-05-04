@@ -93,11 +93,6 @@ def overpass_request(obj_id: str, names: list, only_open_license: bool, mongo_cl
         logging.critical("Overpass query returned no results")
         raise Exception("Overpass query returned no results!")
 
-    # saving data to a file
-    # output_file = open(f"data/overpass/{obj_id}.json", "w")
-    # output_file.write(json.dumps(res))
-    # output_file.close()
-
     # saving data to a database
     mongo_client["overpass"][obj_id].insert_many(res)
 

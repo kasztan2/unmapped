@@ -2,7 +2,6 @@ from src.downloader import download
 from src.compare import compare
 import json
 from src.logging import logging
-import os
 import sys
 import pymongo
 

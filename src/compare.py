@@ -2,7 +2,6 @@ import numpy as np
 from sklearn.neighbors import BallTree
 from math import radians
 import json
-import os
 from src.logging import logging
 import time
 import pymongo
