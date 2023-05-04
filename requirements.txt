@@ -1,5 +1,5 @@
 beautifulsoup4==4.12.2
-numpy==1.21.5
+numpy==1.22.0
 pygeohash==1.2.0
 pymongo==4.3.3
 requests==2.27.1
